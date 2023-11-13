@@ -16,11 +16,11 @@ que d’haver fet aquest període)
 ● Temporització de l’estada:
 
 
-● Si heu fet el període de prova, la data d’inici i de finalització d’aquest període.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Si heu fet el període de prova, la data d’inici i de finalització d’aquest període.
 
 
-● Data d'inici i de finalització de les pràctiques com a becari o contractat.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Data d'inici i de finalització de les pràctiques com a becari o contractat.
 
 
-● Dies que no vau fer pràctiques per vacances o malaltia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Dies que no vau fer pràctiques per vacances o malaltia.
 
