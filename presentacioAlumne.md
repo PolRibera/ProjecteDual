@@ -11,6 +11,8 @@ L'institut Nicolau Copèrnic es troba en el barri de Can Boada Del Pi de Terrass
 superior) i les referències normatives (aquí teniu l’enllaç on trobareu les
 referències)**
 
+
+
 **● Motivació que us va portar a escollir:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**● El cicle que esteu cursant**
