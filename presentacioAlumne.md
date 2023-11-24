@@ -11,11 +11,14 @@ L'institut Nicolau Copèrnic es troba en el barri de Can Boada Del Pi de Terrass
 superior) i les referències normatives (aquí teniu l’enllaç on trobareu les
 referències)**
 
+CFGS Desenvolupament d'Aplicacion Multiplataforma, Pertany a la familia de Informatica, Grau Superior.
 
 
 **● Motivació que us va portar a escollir:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**● El cicle que esteu cursant**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Al cicle mitja vem fer un projecte amb javascript on vem començar a programar, al poc temps de començar aquell projecte vaig veure que la programació era per diferencia el que mes m'agradava.
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**● La modalitat Dual d’estada en l’empresa**
 
