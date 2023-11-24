@@ -27,6 +27,9 @@ CFGS Desenvolupament d'Aplicacion Multiplataforma, Pertany a la familia de Infor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laboral, a mes de ser remunerades.
 
 **● Objectius que voleu assolir amb l’estada.**
+
 -. Veure amb els meus propis ulls com funciona el mon laboral de forma mes "real".
+
 -. Formarme sobre les eines mes utilitzades en les empreses.
+
 -. Obtenir experiencia de treball per el curriclum.
