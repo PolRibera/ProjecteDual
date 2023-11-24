@@ -6,7 +6,7 @@ Circutor S.A.U,  Vial de Sant Jordi, s/n, 08232, Barcelona
 
 **● Descripció de les activitats que fa l’empresa**
 
-Es una empresa dedicada al sector electric, produeixen 
+Es una empresa dedicada al sector electric, produeixen principalment cuadres electrics i carregadors per cotxes electrics.
 
 **● Organigrama de l’entitat i ubicació del departament on esteu vosaltres.**
 
