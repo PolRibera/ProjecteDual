@@ -1,6 +1,6 @@
-**Dades d’entitat:
+**Dades d’entitat:**
 
-● Nom i adreça de l’entitat on esteu fent l’estada Dual.**
+**● Nom i adreça de l’entitat on esteu fent l’estada Dual.**
 
 Circutor S.A.U,  Vial de Sant Jordi, s/n, 08232, Barcelona
 
