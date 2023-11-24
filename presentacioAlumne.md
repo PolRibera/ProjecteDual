@@ -18,7 +18,7 @@ CFGS Desenvolupament d'Aplicacion Multiplataforma, Pertany a la familia de Infor
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**● El cicle que esteu cursant**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Al cicle mitja vem fer un projecte amb javascript on vem començar a programar, al poc temps de començar aquell projecte vaig veure que la programació era per diferencia el que mes m'agradava.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Al cicle mitja vem fer un projecte amb javascript on vem començar a programar, al poc temps de començar aquell projecte vaig veure que &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;la programació era per diferencia el que mes m'agradava.
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**● La modalitat Dual d’estada en l’empresa**
 
