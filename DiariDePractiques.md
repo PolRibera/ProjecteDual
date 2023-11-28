@@ -31,11 +31,6 @@ Preparació del meu equip portatil.
 Configuració de impresores en xarxa.
 Crear programa de generació automatica de firmes.
 
-**Setmana 12/06/2023 - 16/06/2023**
-Instalació al lloc de Treball.
-Preparació del meu equip portatil.
-Configuració de impresores en xarxa.
-Crear programa de generació automatica de firmes.
 
 **Setmana 19/06/2023 - 23/06/2023**
 
