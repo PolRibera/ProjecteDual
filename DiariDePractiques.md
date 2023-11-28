@@ -25,4 +25,42 @@ la relació.
 d'importància i impacte amb relació al vostre aprenentatge, competències
 adquirides, etc.
 
+**Setmana 12/06/2023 - 16/06/2023**
+Instalació al lloc de Treball.
+Preparació del meu equip portatil.
+Configuració de impresores en xarxa.
+Crear programa de generació automatica de firmes.
+
+**Setmana 12/06/2023 - 16/06/2023**
+Instalació al lloc de Treball.
+Preparació del meu equip portatil.
+Configuració de impresores en xarxa.
+Crear programa de generació automatica de firmes.
+
+**Setmana 19/06/2023 - 23/06/2023**
+
+
+**Setmana 26/06/2023 - 30/06/2023**
+
+
+**Setmana 03/07/2023 - 07/07/2023**
+
+
+**Setmana 10/07/2023 - 14/07/2023**
+
+
+**Setmana 17/07/2023 - 21/07/2023**
+
+
+**Setmana 24/07/2023 - 28/07/2023**
+
+
+**Setmana 31/07/2023 - 31/07/2023 (Agost Festa)**
+
+
+**Setmana 01/09/2023 - 01/09/2023**
+
+
+**Setmana 04/09/2023 - 08/09/2023**
+
 
