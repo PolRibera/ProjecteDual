@@ -18,4 +18,4 @@ Estic al departament IT, basicament som els informatics, preparem equips per la 
 **● Infraestructura de l’entitat i eines a la vostra disposició (ordinadors, programari, altres
 dispositius com telèfons, etc.)**
 
-La emmpresa es separa en 3 grans parts (sense contar filials o subempreses) trobem el magatzem, la produccio (fabrica) i oficina, el meu departament es troba a la part de oficina encara que ens encarreguem de les 3 parts per igual, a la nostra disposició tenim portatil (TOSHIBA PORTEGE Z30-A) i mobil (Samsung A20e) per cada un. Dis`psem de llicencia de Office 2019, AnyDesk, entre altres programes basics de oficina.
+L'empresa es separa en 3 grans parts (sense contar filials o sub-empreses) trobem el magatzem, la producció (fabrica) i oficina, el meu departament es troba a la part d'oficina encara que ens encarreguem de les 3 parts per igual, a la nostra disposició tenim portàtil (TOSHIBA PORTEGE Z30-A) i mòbil (Samsung A20e) per cada un. Disposem de llicència d'Office 2019, AnyDesk, entre altres programes bàsics d'oficina.
