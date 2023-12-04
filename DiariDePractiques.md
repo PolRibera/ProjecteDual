@@ -32,7 +32,8 @@ Configuració de impresores en xarxa.
 Crear programa de generació automatica de firmes.
 
 
-**Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia per motiu **
+**Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia per motiu**
+
 Preparació de diversos equips tant portatils com sobretaula, habilitan el acces remot.
 Instalacio de diverses impresores tant normals com d'etiquetes en xarxa amb DHCP.
 Desenvolupament de la aplicacio que genera les fimres electroniques automaticament.
