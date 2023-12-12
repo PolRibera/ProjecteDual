@@ -41,6 +41,9 @@ Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els nu
 
 **Setmana 26/06/2023 - 30/06/2023**
 
+Configurar i instal·lar diversos PCs
+
+
 
 **Setmana 03/07/2023 - 07/07/2023**
 
