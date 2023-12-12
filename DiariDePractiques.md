@@ -100,6 +100,6 @@ Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els nu
 
 **Setmana 04/12/2023 - 08/12/2023**
 
-**Setmana 11/11/2023 - 15/12/2023**
+**Setmana 11/12/2023 - 15/12/2023**
 
 
