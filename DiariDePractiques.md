@@ -44,7 +44,6 @@ Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els nu
 Configurar i instal·lar diversos PCs
 
 
-
 **Setmana 03/07/2023 - 07/07/2023**
 
 
@@ -105,4 +104,15 @@ Configurar i instal·lar diversos PCs
 
 **Setmana 11/12/2023 - 15/12/2023**
 
+**Setmana 11/12/2023 - 15/12/2023**
+
+**Setmana 18/12/2023 - 22/12/2023**
+
+**Setmana 25/12/2023 - 29/12/2023**
+
+**Setmana 01/01/2024 - 05/01/2024**
+
+**Setmana 08/01/2024 - 12/01/2024**
+
+**Setmana 15/01/2024 - 19/01/2024**
 
