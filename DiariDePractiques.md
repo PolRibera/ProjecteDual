@@ -25,6 +25,8 @@ la relació.
 d'importància i impacte amb relació al vostre aprenentatge, competències
 adquirides, etc.
 
+***JUNY***
+
 **Setmana 12/06/2023 - 16/06/2023**
 Instalació al lloc de Treball.
 
@@ -56,6 +58,7 @@ Entrega de la Aplicació de generació de firmes en cmd, començament desenvolup
 Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
 
 
+***JULIOL***
 
 **Setmana 03/07/2023 - 07/07/2023 Dilluns 03/07/2023,Dimecres 05/07/2023 Absencia**
 Reciclatge de equips del CPD.
@@ -109,6 +112,8 @@ Solucio Incidencies relacionades amb el programa PGI (PGI es un programa que s'u
 Preparació d'un equip portatil
 
 Instalació d'una impresora d'etiquetes a la zona de Metering
+
+***SETEMBRE***
 
 **Setmana 01/09/2023 - 01/09/2023**
 
@@ -173,6 +178,8 @@ Reserva de equips en el servidor DHCP.
 
 Afegir equips al domini de la empresa
 
+***OCTUBRE***
+
 **Setmana 02/10/2023 - 06/10/2023**
 
 Preparació de diversos equips portatils.
@@ -200,6 +207,8 @@ Gestio d'Usuaris per Active Directory.
 
 **Setmana 23/10/2023 - 27/10/2023**
 
+***NOVEMBRE***
+
 
 **Setmana 30/10/2023 - 03/11/2023**
 
@@ -215,6 +224,8 @@ Gestio d'Usuaris per Active Directory.
 
 **Setmana 27/11/2023 - 01/12/2023**
 
+***DESEMBRE***
+
 **Setmana 04/12/2023 - 08/12/2023**
 
 **Setmana 11/12/2023 - 15/12/2023**
@@ -224,6 +235,8 @@ Gestio d'Usuaris per Active Directory.
 **Setmana 18/12/2023 - 22/12/2023**
 
 **Setmana 25/12/2023 - 29/12/2023**
+
+***GENER***
 
 **Setmana 01/01/2024 - 05/01/2024**
 
