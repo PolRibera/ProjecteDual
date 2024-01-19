@@ -61,187 +61,193 @@ adquirides, etc.
 
 ***JULIOL***
 
-**Setmana 03/07/2023 - 07/07/2023 Dilluns 03/07/2023,Dimecres 05/07/2023 Absencia**
-Reciclatge de equips del CPD.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 03/07/2023 - 07/07/2023 Dilluns 03/07/2023,Dimecres 05/07/2023 Absencia**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reciclatge de equips del CPD.
 
-Continuament de desenvolupar GUI per el programa de firmes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Continuament de desenvolupar GUI per el programa de firmes.
 
-Muntatge de estanteries per el CPD, per millor organització.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Muntatge de estanteries per el CPD, per millor organització.
 
-Preparacio de diversos Equips.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparacio de diversos Equips.
 
-**Setmana 10/07/2023 - 14/07/2023**
-Configuració de diverses tauletes Microsoft Surface.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 10/07/2023 - 14/07/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració de diverses tauletes Microsoft Surface.
 
-Entrega final del programa de generació de firmes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrega final del programa de generació de firmes.
 
-Instalacio de drivers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalacio de drivers.
 
-Configuració d'equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració d'equips portatils.
 
-Configruació de Smartphones amb el programa Sophos.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configruació de Smartphones amb el programa Sophos.
 
-**Setmana 17/07/2023 - 21/07/2023**
-Preparació de diversos equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 17/07/2023 - 21/07/2023**
 
-Muntatge de lloc de treball.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
 
-Preparació de diversos smartphones.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Muntatge de lloc de treball.
 
-Modificació scripts Rasberry Pi en producció.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos smartphones.
 
-Modificació programa firmes per utilitzar una nova plantilla.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modificació scripts Rasberry Pi en producció.
 
-Afegir accesos directes en diversos PC de producció.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modificació programa firmes per utilitzar una nova plantilla.
 
-**Setmana 24/07/2023 - 28/07/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Afegir accesos directes en diversos PC de producció.
 
-Preparació de diversos equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 24/07/2023 - 28/07/2023**
 
-Modificació i activació de diverses linies de Vodafone desde el portal Mi Vodafone
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
 
-Incidencies diverses amb canvi de contrasenyes de Active Directory
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modificació i activació de diverses linies de Vodafone desde el portal Mi Vodafone
 
-Instalacions de diverses impresores en equips remots.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incidencies diverses amb canvi de contrasenyes de Active Directory
 
-Entrega de programa modificat de generació de firmes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalacions de diverses impresores en equips remots.
 
-Solucio Incidencies relacionades amb el programa PGI (PGI es un programa que s'utilitza en producció)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrega de programa modificat de generació de firmes.
 
-**Setmana 31/07/2023 - 31/07/2023 (Agost Festa)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solucio Incidencies relacionades amb el programa PGI (PGI es un programa que s'utilitza en producció)
 
-Preparació d'un equip portatil
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 31/07/2023 - 31/07/2023 (Agost Festa)**
 
-Instalació d'una impresora d'etiquetes a la zona de Metering
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació d'un equip portatil
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació d'una impresora d'etiquetes a la zona de Metering
 
 ***SETEMBRE***
 
-**Setmana 01/09/2023 - 01/09/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 01/09/2023 - 01/09/2023**
 
-Configurades diverses impresores d'etiquetes per la zona de Producció.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configurades diverses impresores d'etiquetes per la zona de Producció.
 
-Modificació de contasenyes desde Active Directory.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modificació de contasenyes desde Active Directory.
 
-Començament desenvolupament aplicació autoinstalar programes per fer les preparacions del equips mes rapid.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Començament desenvolupament aplicació autoinstalar programes per fer les preparacions del equips mes rapid.
 
-**Setmana 04/09/2023 - 08/09/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 04/09/2023 - 08/09/2023**
 
-Preparació de diversos equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
 
-Configuració Outlook pero utilitzar llistes de difusió.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració Outlook pero utilitzar llistes de difusió.
 
-Configuració Navegadors per utilitzar certificat HTTP.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració Navegadors per utilitzar certificat HTTP.
 
-Instalació de Windows 10 en un equip que anira ubicat dintre un cargador.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de Windows 10 en un equip que anira ubicat dintre un cargador.
 
-Modificació Script Intel NUC autoarranque perque mostri informació en dues pantalles. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modificació Script Intel NUC autoarranque perque mostri informació en dues pantalles. 
 
-Configuració de Impresores d'etiquetes Intermek per la zona de Producció
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració de Impresores d'etiquetes Intermek per la zona de Producció
 
-**Setmana 11/09/2023 - 15/09/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/09/2023 - 15/09/2023**
 
-Preparació de diversos equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
 
-Instalació i configuració Impresores de etiquetes per la zona de Metering.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació i configuració Impresores de etiquetes per la zona de Metering.
 
-Instalació de Politiques en el antivirus Sophos.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de Politiques en el antivirus Sophos.
 
-Gestio de Usuaris en Active Directory
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio de Usuaris en Active Directory
 
-Gestio de adaptador de xarxa.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio de adaptador de xarxa.
 
-Generació de firmes amb el programa anteriorment creat.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generació de firmes amb el programa anteriorment creat.
 
-**Setmana 18/09/2023 - 22/09/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 18/09/2023 - 22/09/2023**
 
-Preparació de diversos equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
 
-Configuració de diverses impresores en xarxa.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració de diverses impresores en xarxa.
 
-Instalació de diverses impresores d'etiquetes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
 
-Solució a un error comú a la hora de instalar el programa PGI.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solució a un error comú a la hora de instalar el programa PGI.
 
-Modificació Script Autoarranque Rasberry Pi.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modificació Script Autoarranque Rasberry Pi.
 
 
-**Setmana 25/09/2023 - 29/09/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 25/09/2023 - 29/09/2023**
 
-Preparació de diversos equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
 
-Instalació de diverses impresores d'etiquetes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
 
-Gestio d'Usuaris per Active Directory.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
-Entrega Programa per la gestio remota dels mini PCs.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrega Programa per la gestio remota dels mini PCs.
 
-Reserva de equips en el servidor DHCP.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reserva de equips en el servidor DHCP.
 
-Afegir equips al domini de la empresa
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Afegir equips al domini de la empresa
 
 ***OCTUBRE***
 
-**Setmana 02/10/2023 - 06/10/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 02/10/2023 - 06/10/2023**
 
-Preparació de diversos equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
 
-Instalació de diverses impresores d'etiquetes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
 
-Gestio d'Usuaris per Active Directory.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
-Afegir Informació a la BBDD de Licencies.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Afegir Informació a la BBDD de Licencies.
 
-Configuració de una aplicació per la gestio remota de les pantalles.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració de una aplicació per la gestio remota de les pantalles.
 
-Configuració de adaptador de xarxa.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració de adaptador de xarxa.
 
-**Setmana 09/10/2023 - 13/10/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 09/10/2023 - 13/10/2023**
 
-Preparació de diversos equips portatils.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
 
-Instalació de diverses impresores d'etiquetes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
 
-Gestio d'Usuaris per Active Directory.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
-**Setmana 16/10/2023 - 20/10/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 16/10/2023 - 20/10/2023**
 
 
-**Setmana 23/10/2023 - 27/10/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 23/10/2023 - 27/10/2023**
 
 ***NOVEMBRE***
 
 
-**Setmana 30/10/2023 - 03/11/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 30/10/2023 - 03/11/2023**
 
 
-**Setmana 06/11/2023 - 10/11/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 06/11/2023 - 10/11/2023**
 
 
-**Setmana 13/11/2023 - 17/11/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 13/11/2023 - 17/11/2023**
 
 
-**Setmana 20/11/2023 - 24/11/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 20/11/2023 - 24/11/2023**
 
 
-**Setmana 27/11/2023 - 01/12/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 27/11/2023 - 01/12/2023**
 
 ***DESEMBRE***
 
-**Setmana 04/12/2023 - 08/12/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 04/12/2023 - 08/12/2023**
 
-**Setmana 11/12/2023 - 15/12/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/12/2023 - 15/12/2023**
 
-**Setmana 11/12/2023 - 15/12/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/12/2023 - 15/12/2023**
 
-**Setmana 18/12/2023 - 22/12/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 18/12/2023 - 22/12/2023**
 
-**Setmana 25/12/2023 - 29/12/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 25/12/2023 - 29/12/2023**
 
 ***GENER***
 
-**Setmana 01/01/2024 - 05/01/2024**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 01/01/2024 - 05/01/2024**
 
-**Setmana 08/01/2024 - 12/01/2024**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 08/01/2024 - 12/01/2024**
 
-**Setmana 15/01/2024 - 19/01/2024**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 15/01/2024 - 19/01/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 22/01/2024 - 26/01/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 29/01/2024 - 02/02/2024**
+
 
