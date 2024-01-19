@@ -28,6 +28,7 @@ adquirides, etc.
 ***JUNY***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 12/06/2023 - 16/06/2023**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació al lloc de Treball.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació del meu equip portatil.
