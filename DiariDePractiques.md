@@ -41,17 +41,31 @@ Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els nu
 
 **Setmana 26/06/2023 - 30/06/2023**
 
-Configurar i instal·lar diversos PCs
+Configurar i instal·lar diversos PCs.
+Muntatge de diversos monitors.
+Entrega de la Aplicació de generació de firmes en cmd, començament desenvolupament GUI.
+Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
 
 
-**Setmana 03/07/2023 - 07/07/2023**
-
+**Setmana 03/07/2023 - 07/07/2023 Dilluns 03/07/2023,Dimecres 05/07/2023 Absencia**
+Reciclatge de equips del CPD.
+Continuament de desenvolupar GUI per el programa de firmes.
+Muntatge de estanteries per el CPD, per millor organització.
+Preparacio de diversos Equips.
 
 **Setmana 10/07/2023 - 14/07/2023**
-
+Configuració de diverses tauletes Microsoft Surface.
+Entrega final del programa de generació de firmes.
+Instalacio de drivers.
+Configuració d'equips portatils.
+Configruació de Smartphones amb el programa Sophos.
 
 **Setmana 17/07/2023 - 21/07/2023**
-
+Preparació de diversos equips portatils.
+Muntatge de lloc de treball.
+Preparació de diversos smartphones.
+Modificació scripts Rasberry Pi en producció
+Modificació programa firmes per utilitzar una nova plantilla.
 
 **Setmana 24/07/2023 - 28/07/2023**
 
