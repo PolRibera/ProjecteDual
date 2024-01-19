@@ -226,42 +226,124 @@ adquirides, etc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 23/10/2023 - 27/10/2023**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
+
+
 ***NOVEMBRE***
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 30/10/2023 - 03/11/2023**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 06/11/2023 - 10/11/2023**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 13/11/2023 - 17/11/2023**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 20/11/2023 - 24/11/2023**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 27/11/2023 - 01/12/2023**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
 ***DESEMBRE***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 04/12/2023 - 08/12/2023**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/12/2023 - 15/12/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/12/2023 - 15/12/2023**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/12/2023 - 15/12/2023**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 18/12/2023 - 22/12/2023**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 25/12/2023 - 29/12/2023**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
 ***GENER***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 01/01/2024 - 05/01/2024**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 08/01/2024 - 12/01/2024**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 15/01/2024 - 19/01/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació de diverses impresores d'etiquetes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 22/01/2024 - 26/01/2024**
 
