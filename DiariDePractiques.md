@@ -161,12 +161,39 @@ Modificació Script Autoarranque Rasberry Pi.
 
 **Setmana 25/09/2023 - 29/09/2023**
 
+Preparació de diversos equips portatils.
+
+Instalació de diverses impresores d'etiquetes.
+
+Gestio d'Usuaris per Active Directory.
+
+Entrega Programa per la gestio remota dels mini PCs.
+
+Reserva de equips en el servidor DHCP.
+
+Afegir equips al domini de la empresa
 
 **Setmana 02/10/2023 - 06/10/2023**
 
+Preparació de diversos equips portatils.
+
+Instalació de diverses impresores d'etiquetes.
+
+Gestio d'Usuaris per Active Directory.
+
+Afegir Informació a la BBDD de Licencies.
+
+Configuració de una aplicació per la gestio remota de les pantalles.
+
+Configuració de adaptador de xarxa.
 
 **Setmana 09/10/2023 - 13/10/2023**
 
+Preparació de diversos equips portatils.
+
+Instalació de diverses impresores d'etiquetes.
+
+Gestio d'Usuaris per Active Directory.
 
 **Setmana 16/10/2023 - 20/10/2023**
 
