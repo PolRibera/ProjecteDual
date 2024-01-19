@@ -148,6 +148,16 @@ Generació de firmes amb el programa anteriorment creat.
 
 **Setmana 18/09/2023 - 22/09/2023**
 
+Preparació de diversos equips portatils.
+
+Configuració de diverses impresores en xarxa.
+
+Instalació de diverses impresores d'etiquetes.
+
+Solució a un error comú a la hora de instalar el programa PGI.
+
+Modificació Script Autoarranque Rasberry Pi.
+
 
 **Setmana 25/09/2023 - 29/09/2023**
 
