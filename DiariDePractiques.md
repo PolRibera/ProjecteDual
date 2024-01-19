@@ -250,6 +250,8 @@ adquirides, etc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestio d'Usuaris per Active Directory.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació VPN personalitzat per tecnincs de SAT.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 06/11/2023 - 10/11/2023**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips portatils.
