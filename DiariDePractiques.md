@@ -27,51 +27,88 @@ adquirides, etc.
 
 **Setmana 12/06/2023 - 16/06/2023**
 Instalació al lloc de Treball.
+
 Preparació del meu equip portatil.
+
 Configuració de impresores en xarxa.
+
 Crear programa de generació automatica de firmes.
 
 
 **Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia**
 
 Preparació de diversos equips tant portatils com sobretaula, habilitan el acces remot.
+
 Instalacio de diverses impresores tant normals com d'etiquetes en xarxa amb DHCP.
+
 Desenvolupament de la aplicacio que genera les fimres electroniques automaticament.
+
 Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els numeros de telefons.
 
 **Setmana 26/06/2023 - 30/06/2023**
 
 Configurar i instal·lar diversos PCs.
+
 Muntatge de diversos monitors.
+
 Entrega de la Aplicació de generació de firmes en cmd, començament desenvolupament GUI.
+
 Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
+
 
 
 **Setmana 03/07/2023 - 07/07/2023 Dilluns 03/07/2023,Dimecres 05/07/2023 Absencia**
 Reciclatge de equips del CPD.
+
 Continuament de desenvolupar GUI per el programa de firmes.
+
 Muntatge de estanteries per el CPD, per millor organització.
+
 Preparacio de diversos Equips.
 
 **Setmana 10/07/2023 - 14/07/2023**
 Configuració de diverses tauletes Microsoft Surface.
+
 Entrega final del programa de generació de firmes.
+
 Instalacio de drivers.
+
 Configuració d'equips portatils.
+
 Configruació de Smartphones amb el programa Sophos.
 
 **Setmana 17/07/2023 - 21/07/2023**
 Preparació de diversos equips portatils.
+
 Muntatge de lloc de treball.
+
 Preparació de diversos smartphones.
-Modificació scripts Rasberry Pi en producció
+
+Modificació scripts Rasberry Pi en producció.
+
 Modificació programa firmes per utilitzar una nova plantilla.
+
+Afegir accesos directes en diversos PC de producció.
 
 **Setmana 24/07/2023 - 28/07/2023**
 
+Preparació de diversos equips portatils.
+
+Modificació i activació de diverses linies de Vodafone desde el portal Mi Vodafone
+
+Incidencies diverses amb canvi de contrasenyes de Active Directory
+
+Instalacions de diverses impresores en equips remots.
+
+Entrega de programa modificat de generació de firmes.
+
+Solucio Incidencies relacionades amb el programa PGI (PGI es un programa que s'utilitza en producció)
 
 **Setmana 31/07/2023 - 31/07/2023 (Agost Festa)**
 
+Preparació d'un equip portatil
+
+Instalació d'una impresora d'etiquetes a la zona de Metering
 
 **Setmana 01/09/2023 - 01/09/2023**
 
