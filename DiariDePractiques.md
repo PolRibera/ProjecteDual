@@ -114,17 +114,37 @@ Instalació d'una impresora d'etiquetes a la zona de Metering
 
 Configurades diverses impresores d'etiquetes per la zona de Producció.
 
-Modificació de contasenyes desde Active Directory
+Modificació de contasenyes desde Active Directory.
 
 Començament desenvolupament aplicació autoinstalar programes per fer les preparacions del equips mes rapid.
 
 **Setmana 04/09/2023 - 08/09/2023**
 
+Preparació de diversos equips portatils.
 
+Configuració Outlook pero utilitzar llistes de difusió.
 
+Configuració Navegadors per utilitzar certificat HTTP.
+
+Instalació de Windows 10 en un equip que anira ubicat dintre un cargador.
+
+Modificació Script Intel NUC autoarranque perque mostri informació en dues pantalles. 
+
+Configuració de Impresores d'etiquetes Intermek per la zona de Producció
 
 **Setmana 11/09/2023 - 15/09/2023**
 
+Preparació de diversos equips portatils.
+
+Instalació i configuració Impresores de etiquetes per la zona de Metering.
+
+Instalació de Politiques en el antivirus Sophos.
+
+Gestio de Usuaris en Active Directory
+
+Gestio de adaptador de xarxa.
+
+Generació de firmes amb el programa anteriorment creat.
 
 **Setmana 18/09/2023 - 22/09/2023**
 
