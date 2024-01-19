@@ -112,8 +112,15 @@ Instalació d'una impresora d'etiquetes a la zona de Metering
 
 **Setmana 01/09/2023 - 01/09/2023**
 
+Configurades diverses impresores d'etiquetes per la zona de Producció.
+
+Modificació de contasenyes desde Active Directory
+
+Començament desenvolupament aplicació autoinstalar programes per fer les preparacions del equips mes rapid.
 
 **Setmana 04/09/2023 - 08/09/2023**
+
+
 
 
 **Setmana 11/09/2023 - 15/09/2023**
