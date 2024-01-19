@@ -27,35 +27,35 @@ adquirides, etc.
 
 ***JUNY***
 
-**Setmana 12/06/2023 - 16/06/2023**
-Instalació al lloc de Treball.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 12/06/2023 - 16/06/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalació al lloc de Treball.
 
-Preparació del meu equip portatil.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació del meu equip portatil.
 
-Configuració de impresores en xarxa.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuració de impresores en xarxa.
 
-Crear programa de generació automatica de firmes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crear programa de generació automatica de firmes.
 
 
-**Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia**
 
-Preparació de diversos equips tant portatils com sobretaula, habilitan el acces remot.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparació de diversos equips tant portatils com sobretaula, habilitan el acces remot.
 
-Instalacio de diverses impresores tant normals com d'etiquetes en xarxa amb DHCP.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instalacio de diverses impresores tant normals com d'etiquetes en xarxa amb DHCP.
 
-Desenvolupament de la aplicacio que genera les fimres electroniques automaticament.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolupament de la aplicacio que genera les fimres electroniques automaticament.
 
-Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els numeros de telefons.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els numeros de telefons.
 
-**Setmana 26/06/2023 - 30/06/2023**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 26/06/2023 - 30/06/2023**
 
-Configurar i instal·lar diversos PCs.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configurar i instal·lar diversos PCs.
 
-Muntatge de diversos monitors.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Muntatge de diversos monitors.
 
-Entrega de la Aplicació de generació de firmes en cmd, començament desenvolupament GUI.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrega de la Aplicació de generació de firmes en cmd, començament desenvolupament GUI.
 
-Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
 
 
 ***JULIOL***
