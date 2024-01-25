@@ -361,7 +361,7 @@ adquirides, etc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 22/01/2024 - 26/01/2024**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En esta semana he sido movido de departamento despues de estar casi 6 Meses en el equipo Suport IT, he sido movido al equipo de desarollo como becario.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En esta semana he sido movido de departamento despues de estar casi 6 Meses en el equipo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suport IT, he sido movido al equipo de desarollo como becario.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 29/01/2024 - 02/02/2024**
 
