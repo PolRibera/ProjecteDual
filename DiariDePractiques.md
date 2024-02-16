@@ -365,8 +365,12 @@ adquirides, etc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 29/01/2024 - 02/02/2024**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modificar view para añadir unos filtros en un CRUD ya hecho, hemos usado la libreria vueatify que nos ofrece opciones prehechas.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CRUD Realizado mediante C# en el back-end y con .vue y javascript en el front, en este caso nos pedian un CRUD para poder gestionar 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; los reports ya  realizados y poder ver el usuario asignado a ese report, el tipo de este y el ID de este.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modificar los filtros de los registros de test de produccion, en este caso querian que 2 columnas no se mosraran, dentro de cada registro de test, se puede acceder al &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;registro entero, dentro de este se pidio que cuando en las pruebas que el test se salga de los margenes, se &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ponga el background color de esa prueba se ponga en rojo, y que el valor de la prueba este entre el valor minimo aceptado y el maximo aceptado.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 05/02/2024 - 09/02/2024**
