@@ -375,9 +375,36 @@ adquirides, etc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 05/02/2024 - 09/02/2024**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implementación CRUD de la distribución de los Reports en CMES Manager Añadir filtros en todos los componentes treegrids de CMES Manager.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En el módulo de reparaciones: mostrar la información del test al seleccionar uno (al igual que está hecho en el módulo del historial de Test), &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quitar la paginación en el resultado del test y cuando un resultado de test este fuera de márgenes se indique con un color rojo de fondo, cambiar el &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;orden de las columnas del resultado de test, al seleccionar una pestaña dentro de la información de test se mantenga al seleccionar otro test, al &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entrar en la cronología de cada test, se muestren las fotografías de la reparación y cambiar el color de fondo al seleccionar un artículo para reparar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En el módulo de historial de Test: Quitar filtros innecesarios y solicitar un comentario tanto para retirar ese test como para retirar el bastidor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entero.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En el módulo de SMD: Añadir una Línea Temporal donde se muestran los estados de las líneas SMD y de las Órdenes de estas.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 12/02/2024 - 16/02/2024**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 05/02/2024 - 9/02/2024**
+-Mantenimiento y Reparación
+En las asistencias, una vez marcada como completada, pide un comentario de resolución con una longitud máxima permitida determinada.
+Añadir un pre visualizador de PDF responsive en la página de bienes, cuando se añade un nuevo archivo aparece un botón que abre un diálogo con el PDF previsualizado.
+-Documentación en Línea
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 19/02/2024 - 23/02/2024**
+
+En el módulo de Documentos añadir la función de poder añadir, editar, eliminar y filtrar documentos por Nodo, los cuales se ven reflejados en el CMES Line si el documento añadido al Nodo son nuevas instrucciones, estas se muestran al igual que se mostraban las instrucciones de familia, producto y producto-versión. Aplicar de forma correcta los filtros de documentos, si se encuentran documentos con los filtros aplicados, mostrarlos, en caso contrario se debe mostrar los documentos del padre (Nodo, Familia o Producto) e indicando de donde vienen heredados. Al abrir el diálogo para gestionar los documentos de ese Producto-Versión, Producto, Familia o Nodo y cerrarlo con Tecla ESC, funcione con normalidad.
+-Control de producción
+En el módulo de SMD mostrar información del estado en la línea temporal a modo de
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 26/02/2024 - 01/03/2024**
+-Módulo Condiciones entrada línea + cualificaciones del empleado (Matriz ILUO)
+Añadir campos restantes en BBDD de Zurc e Intercap para que el Módulo de ILUO pueda funcionar con normalidad.
+-Planificación Personal
+En el módulo de Planificación de turnos, en el Departamento de convencional se muestren los Nodos de Láser y el empleado asignado.
+-Mantenimiento y Reparación
+En el módulo de programaciones: Retirar botón de notificar al generar una programación de asistencia o editar una ya existente.
+-Control de producción
+En el módulo de Historial permitir retirar un ItemEvents aun cuando es KO.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/03/2024 - 15/03/2024**
 
 
