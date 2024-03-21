@@ -30,7 +30,7 @@ Per el moment porto unes 700 hores (Aprox)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**● Data d'inici i de finalització de les pràctiques com a becari o contractat.**
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Del 17 de juliol fins 30 juny del 2024.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Del 17 de juliol fins 28 juny del 2024.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**● Dies que no vau fer pràctiques per vacances o malaltia.**
