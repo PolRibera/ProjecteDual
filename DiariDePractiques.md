@@ -363,6 +363,8 @@ Gestio d'Usuaris per Active Directory.
 
 En esta semana he sido movido de departamento despues de estar casi 6 Meses en el equipo Suport IT, he sido movido al equipo de desarollo como becario.
 
+***FEBRER***
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 29/01/2024 - 02/02/2024**
 
  Modificar view para añadir unos filtros en un CRUD ya hecho, hemos usado la libreria vueatify que nos ofrece opciones prehechas.
@@ -391,6 +393,8 @@ En el módulo de Documentos añadir la función de poder añadir, editar, elimin
 
 Aplicar de forma correcta los filtros de documentos, si se encuentran documentos con los filtros aplicados, mostrarlos, en caso contrario se debe mostrar los documentos del padre (Nodo, Familia o Producto) e indicando de donde vienen heredados. Al abrir el diálogo para gestionar los documentos de ese Producto-Versión, Producto, Familia o Nodo y cerrarlo con Tecla ESC, funcione con normalidad.
 En el módulo de SMD mostrar información del estado en la línea temporal a modo de hover con un tooltip y en caso de paro no planificado mostrar el motivo de ese.
+
+***MARÇ***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 26/02/2024 - 01/03/2024**
 
