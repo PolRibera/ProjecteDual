@@ -17,7 +17,7 @@ que d’haver fet aquest període)**
 
 **● Total d’hores fetes com a becari o contractat.**
 
-Per el moment porto unes 400 hores (Aprox)
+Per el moment porto unes 700 hores (Aprox)
 
 **● Temporització de l’estada:**
 
