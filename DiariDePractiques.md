@@ -393,7 +393,7 @@ Añadir un pre visualizador de PDF responsive en la página de bienes, cuando se
 
 En el módulo de Documentos añadir la función de poder añadir, editar, eliminar y filtrar documentos por Nodo, los cuales se ven reflejados en el CMES Line si el documento añadido al Nodo son nuevas instrucciones, estas se muestran al igual que se mostraban las instrucciones de familia, producto y producto-versión. Aplicar de forma correcta los filtros de documentos, si se encuentran documentos con los filtros aplicados, mostrarlos, en caso contrario se debe mostrar los documentos del padre (Nodo, Familia o Producto) e indicando de donde vienen heredados. Al abrir el diálogo para gestionar los documentos de ese Producto-Versión, Producto, Familia o Nodo y cerrarlo con Tecla ESC, funcione con normalidad.
 -Control de producción
-En el módulo de SMD mostrar información del estado en la línea temporal a modo de
+En el módulo de SMD mostrar información del estado en la línea temporal a modo de hover con un tooltip y en caso de paro no planificado mostrar el motivo de ese.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 26/02/2024 - 01/03/2024**
 -Módulo Condiciones entrada línea + cualificaciones del empleado (Matriz ILUO)
