@@ -405,9 +405,30 @@ En el módulo de Historial permitir retirar un ItemEvents aun cuando es KO.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/03/2024 - 15/03/2024**
 
+Arreglado Bug el cual no permitía ver las etiquetas heredadas por familia.
+Generado Script en Servidor VA de borrado automático semanal de imágenes antiguas. 
+Planificación y ensayos de la Presentación del Proyecto Lynx, generar PowerPoint, estudiar guion, etc…
+En el modulo de Documentos se ha restringido el poder Gestionar documentos heredados, indicando de donde vienen heredados estos en el planner.
+Despliegue de las instrucciones por nodo en Zurc y Dezac con OT.
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 18/03/2024 - 22/03/2024**
+
+En el gestor de todos los documentos comprobar si el mismo documento esta enlazado más de una vez y mostrar la más restrictiva, además de en el combobox preseleccionar el que más coincida con el código buscado.
+Arreglado Bug en ciertas paginas al previsualizar se descargaba el documento en vez de mostrarlo.
+Cambiar formato hora en los errores de test en el resumen de familias.
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 25/03/2024 - 29/03/2024**
 
+Añadido nuevo campo el cual calcula los equipos que se han fabricado en un turno-nodo-operario-etc... se quiere contar solo la primera vez que el bastidor tiene un registro ok en el mismo producto y fase y añadido en el informe de turno con el cual se calcula la facturación del mismo.
+Arreglar colores timeline orden SMD. 
+Solucionado error al retirar ciertos equipos en Zurc.
+
+
+***ABRIL***
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 01/04/2024 - 05/04/2024**
+
+
 
