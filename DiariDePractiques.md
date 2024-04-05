@@ -405,4 +405,9 @@ En el módulo de Historial permitir retirar un ItemEvents aun cuando es KO.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 11/03/2024 - 15/03/2024**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 18/03/2024 - 22/03/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 25/03/2024 - 29/03/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 01/04/2024 - 05/04/2024**
 
