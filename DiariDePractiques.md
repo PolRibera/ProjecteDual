@@ -430,5 +430,32 @@ Solucionado error al retirar ciertos equipos en Zurc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 01/04/2024 - 05/04/2024**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 08/04/2024 - 12/04/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 15/04/2024 - 19/04/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 22/04/2024 - 26/04/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 29/04/2024 - 03/05/2024**
+
+***MAIG***
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 06/05/2024 - 10/05/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 13/05/2024 - 17/05/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 20/05/2024 - 24/05/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 27/05/2024 - 31/05/2024**
+
+***JUNY***
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 03/06/2024 - 07/06/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 10/06/2024 - 14/06/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 17/06/2024 - 21/06/2024**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 24/06/2024 - 28/06/2024**
 
 
