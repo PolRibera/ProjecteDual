@@ -430,13 +430,30 @@ Solucionado error al retirar ciertos equipos en Zurc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 01/04/2024 - 05/04/2024**
 
+Habilitar lectura de códigos de barra 1D desde la aplicación de mantenimiento, diseñar y añadir icono aplicación mantenimiento, 
+la vista de búsqueda de bienes podría funcionar sin darle al botón de buscar en aplicación mantenimiento, 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 08/04/2024 - 12/04/2024**
+
+En la vista de gestión de documentos de OT, Al seleccionar una familia,que no se deshabilite el campo de producto, si no que aparezcan los productos de la familia.
+Añadir barra cronológica de productos en la vista de resumen SMD de cada línea.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 15/04/2024 - 19/04/2024**
 
+redimensionar la vista principal de la aplicación de mantenimiento.
+Asignación automática (a empleado) en incidencias desde Manager teniendo en cuenta el tipo de incidencia o model lead.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 22/04/2024 - 26/04/2024**
 
+Mostrar en la vista de indicadores de mantenimiento los tiempos sin necesidad de hover,
+Redimensionar la grafica de indicadores teniendo en cuenta el tamaño de pantalla.
+Arreglar problema que al crear una incidencia la función de sugerir asignado y asignarte a ti mismo no funcionaba correctamente.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Setmana 29/04/2024 - 03/05/2024**
+
+Solucionado diversos bugs encontrados tanto en la vista de análisis por familia/producto/orden como en la vista de análisis por secciones.
+Añadido el número de bastidor y número de serie en el componente del panel de test.
+
 
 ***MAIG***
 
