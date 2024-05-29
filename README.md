@@ -391,8 +391,8 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   Modificar la vista per afegir uns filtres en un CRUD ja fet. Hem utilitzat la llibreria vueatify 
                   que ens ofereix opcions predefinides.
                   
-                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar un 
-                  CRUD per gestionar els informes ja realitzats 
+                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar
+                  un  CRUD per gestionar els informes ja realitzats 
                   i poder veure l'usuari assignat a aquest informe, el tipus d'aquest i l'ID d'aquest.
                   
                   Modificar els filtres dels registres de test de producció. En aquest cas, volien que 2 columnes no es
