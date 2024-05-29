@@ -17,12 +17,13 @@ Estic realitzant l’estada Dual a Circutor S.A.U., situada al Vial de Sant Jord
 
 Circutor S.A.U. és una empresa dedicada al sector elèctric, especialitzada en la producció de quadres elèctrics i carregadors per a cotxes elèctrics.
 
-Tot i que no puc proporcionar un organigrama detallat, ja que desconec la majoria de persones a la jerarquia superior, puc dir que soc un becari al departament IT.
+Tot i que no puc proporcionar un organigrama detallat, ja que desconec la majoria de persones a la jerarquia superior, puc dir que soc un becari al departament IT / IDP.
 
-El departament IT, on estic assignat, s’encarrega de diverses tasques relacionades amb la informàtica. Preparem equips per al personal, gestionem la xarxa i administrem tot el material informàtic de l’empresa.
+El departament IT, on estava assignat, s’encarrega de diverses tasques relacionades amb la informàtica. Preparem equips per al personal, gestionem la xarxa i administrem tot el material informàtic de l’empresa.
+Al departament IDP, on estic assignat, s'encarrega de desenvolupar software per la producció de la fàbrica de Dezac. Destaquem el MES que hem desenvolupat (i que segueix en desenvolupament).
 
-Circutor S.A.U. té una infraestructura dividida en tres grans parts: el magatzem, la producció (fàbrica) i les oficines. El departament IT es troba a la zona d'oficines, tot i que donem suport a les tres àrees per igual. Tenim a la nostra disposició portàtils TOSHIBA PORTEGE Z30-A i mòbils Samsung A20e. També disposem de llicències de programari com Office 2019 i AnyDesk, entre altres programes bàsics d'oficina.
-
+Circutor S.A.U. té una infraestructura dividida en tres grans parts: el magatzem, la producció (fàbrica) i les oficines. El departament IT es troba a la zona d'oficines i el departament IDP es troba en la planta de fàbrica, en la zona d'enginyeria. Tenim a la nostra disposició portàtils TOSHIBA PORTEGE Z30-A i mòbils Samsung A20e. També disposem de llicències de programari com Office 2019 i AnyDesk, entre altres programes bàsics d'oficina.
+En moure de departament em van cedir un Lenovo E15 Gen4.
 
 
 # Dades de l’Estada
