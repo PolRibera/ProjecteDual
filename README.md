@@ -443,8 +443,9 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
                   Afegir camps restants a BBDD de Zurc i Intercap perquè el Mòdul de ILUO pugui funcionar amb normalitat. 
                   En el mòdul de Planificació de torns, 
-                  al Departament de convencional que es mostren els Nodes de Làser i l'empleat assignat. En el mòdul de programacions: 
-                  Treure botó de notificar en generar una programació d'assistència o editar-ne una ja existent. 
+                  al Departament de convencional que es mostren els Nodes de Làser i l'empleat assignat. 
+                  En el mòdul de programacions:  Treure botó de notificar en generar una programació d'assistència
+                  o editar-ne una ja existent. 
                   En el mòdul de l'historial permetre retirar un ItemEvents encara que sigui KO.
 
             Setmana 11/03/2024 - 15/03/2024
@@ -453,8 +454,8 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   Generat Script al Servidor VA de borratge automàtic setmanal d'imatges antigues. 
                   Planificació i assajos de la Presentació del Projecte Lynx, generar PowerPoint, estudiar guió, etc. 
                   En el mòdul de Documents s'ha restringit el poder gestionar documents heretats, 
-                  indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions per nodo en Zurc i Dezac 
-                  amb Oficina Tecnica.
+                  indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions 
+                  per nodo en Zurc i Dezac amb Oficina Tecnica.
 
             Setmana 18/03/2024 - 22/03/2024
 
