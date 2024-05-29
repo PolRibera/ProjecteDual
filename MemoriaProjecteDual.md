@@ -425,7 +425,9 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
             Setmana 26/02/2024 - 01/03/2024
 
                   Afegir camps restants a BBDD de Zurc i Intercap perquè el Mòdul de ILUO pugui funcionar amb normalitat. En el mòdul de Planificació de torns, 
-                  al Departament de convencional que es mostren els Nodes de Làser i l'empleat assignat. En el mòdul de programacions: Treure botó de notificar en generar una programació d'assistència o editar-ne una ja existent. En el mòdul de l'historial permetre retirar un ItemEvents encara que sigui KO.
+                  al Departament de convencional que es mostren els Nodes de Làser i l'empleat assignat. En el mòdul de programacions: 
+                  Treure botó de notificar en generar una programació d'assistència o editar-ne una ja existent. 
+                  En el mòdul de l'historial permetre retirar un ItemEvents encara que sigui KO.
 
             Setmana 11/03/2024 - 15/03/2024
 
@@ -465,7 +467,8 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
            Setmana 22/04/2024 - 26/04/2024
 
                   Mostrar a la vista d'indicadors de manteniment els temps sense necessitat de fer hover. 
-                  Redimensionar el gràfic d'indicadors tenint en compte la mida de la pantalla. S'ha arreglat un problema que en crear una incidència la funció de suggerir assignat i assignar-te a tu mateix no funcionava correctament.
+                  Redimensionar el gràfic d'indicadors tenint en compte la mida de la pantalla.
+                  S'ha arreglat un problema que en crear una incidència la funció de suggerir assignat i assignar-te a tu mateix no funcionava correctament.
 
            Setmana 29/04/2024 - 03/05/2024
 
@@ -477,11 +480,13 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
            Setmana 06/05/2024 - 10/05/2024
 
-                  Anàlisi: El gràfic cronològic no s'adapta a les dates establertes en el filtre. Anàlisi: Les consultes de temps en l'anàlisi per producte fan que el servidor SQL es bloquegi.
+                  Anàlisi: El gràfic cronològic no s'adapta a les dates establertes en el filtre.
+                  Anàlisi: Les consultes de temps en l'anàlisi per producte fan que el servidor SQL es bloquegi.
 
            Setmana 13/05/2024 - 17/05/2024
 
-                  Instruccions: En obrir el diàleg que afegeix una instrucció a un node hauria de sortir la descripció del node i no només l'ID. Documents: Si es pugen les instruccions a un node pare, no es veuen als fills. Manteniment: Fer el cercador de béns més intel·ligent.
+                  Instruccions: En obrir el diàleg que afegeix una instrucció a un node hauria de sortir la descripció del node i no només l'ID.
+                  Documents: Si es pugen les instruccions a un node pare, no es veuen als fills. Manteniment: Fer el cercador de béns més intel·ligent.
 
 
             Setmana 20/05/2024 - 24/05/2024
