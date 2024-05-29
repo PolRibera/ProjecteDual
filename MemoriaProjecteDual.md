@@ -41,7 +41,7 @@ Fins ara, no he tingut cap dia d’absència per vacances o malaltia.
 
 
 # Relacions Professionals i Seguiment de l’Estada
-El meu tutor a l'institut és Guillermo Guerrero, de manera provisional. A l'entitat, els meus tutors són Raul Salvador i Xavi Barba.
+El meu tutor a l'institut va començant sent Guillermo Guerrero, de manera provisional, però actualment el meu tutor és Victor Carretero. A l'entitat, els meus tutors són Raul Salvador i Xavi Barba.
 
 La comunicació amb els tutors, tant de l'institut com de l'entitat, ha estat correcta. Sempre ens han informat bé i amb temps suficient. El tracte és molt bo, i ens ajuden en qualsevol dubte o feina que no podem realitzar nosaltres sols.
 
