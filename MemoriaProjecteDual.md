@@ -2,7 +2,7 @@
 
 Em dic Pol Ribera Aymerich i visc a Terrassa.
 
-L'institut Nicolau Copèrnic es troba al barri de Can Boada del Pi de Terrassa. En aquest centre es poden cursar l'ESO i les quatre branques bàsiques de batxillerat. També s'ofereix formació professional amb un cicle formatiu de grau mitjà en Sistemes Microinformàtics i Xarxes (SMIX) i tres modalitats superiors: Administració de Sistemes Informàtics en Xarxa (ASIX), Desenvolupament d'Aplicacions Multiplataforma (DAM) i Desenvolupament d'Aplicacions Web (DAW).
+Estudio a l'institut Nicolau Copèrnic que es troba al barri de Can Boada del Pi de Terrassa. En aquest centre es poden cursar l'ESO i les quatre branques bàsiques de batxillerat. També s'ofereix formació professional amb un cicle formatiu de grau mitjà en Sistemes Microinformàtics i Xarxes (SMIX) i tres modalitats superiors: Administració de Sistemes Informàtics en Xarxa (ASIX), Desenvolupament d'Aplicacions Multiplataforma (DAM) i Desenvolupament d'Aplicacions Web (DAW).
 
 Estic cursant el Cicle Formatiu de Grau Superior (CFGS) en Desenvolupament d'Aplicacions Multiplataforma, que pertany a la família d'Informàtica.
 
@@ -135,7 +135,7 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   
                   Entrega de programa modificat de generació de firmes.
                   
-                  Solucio Incidencies relacionades amb el programa PGI (PGI es un programa que s'utilitza en producció)
+                  Solucio Incidencies relacionades amb el programa PGI (PGI es el ERP de Dezac)
 
             Setmana 31/07/2023 - 31/07/2023 (Agost Festa)
 
@@ -391,24 +391,30 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   Modificar la vista per afegir uns filtres en un CRUD ja fet. Hem utilitzat la llibreria vueatify 
                   que ens ofereix opcions predefinides.
                   
-                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar un 
-                  CRUD per gestionar els informes ja realitzats 
+                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar
+                  un  CRUD per gestionar els informes ja realitzats 
                   i poder veure l'usuari assignat a aquest informe, el tipus d'aquest i l'ID d'aquest.
                   
-                  Modificar els filtres dels registres de test de producció. En aquest cas, volien que 2 columnes no es mostrassin dins de cada registre de test. 
+                  Modificar els filtres dels registres de test de producció. En aquest cas, volien que 2 columnes no es
+                  mostressin dins de cada registre de test. 
                   Es va demanar que quan en les proves el test superi els marges, el fons d'aquesta prova s'inclogui en vermell, 
                   i que el valor de la prova estigui entre el valor mínim acceptat i el màxim acceptat.
 
             Setmana 05/02/2024 - 09/02/2024
 
-                  Implementació CRUD de la distribució dels informes en CMES Manager. Afegir filtres a tots els components treegrids de CMES Manager. 
-                  En el mòdul de reparacions: mostrar la informació del test en seleccionar-ne un (igual que està fet en el mòdul de l'historial de Test), 
-                  treure la paginació en el resultat del test i quan un resultat de test estigui fora de marge, indicar-ho amb un color vermell de fons, canviar 
-                  l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, 
+                  Implementació CRUD de la distribució dels informes en CMES Manager. 
+                  Afegir filtres a tots els components treegrids de CMES Manager. 
+                  En el mòdul de reparacions: mostrar la informació del test en seleccionar-ne un 
+                  (igual que està fet en el mòdul de l'historial de Test), 
+                  treure la paginació en el resultat del test i quan un resultat de test estigui fora de marge,
+                  indicar-ho amb un color vermell de fons, canviar l'ordre de les columnes del resultat de test, 
+                  en seleccionar una pestanya dins la informació de test, 
                   es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, 
                   mostrar les fotografies de la reparació i canviar el color de fons en seleccionar un article per reparar. 
-                  En el mòdul de l'historial de Test: Treure filtres innecessaris i sol·licitar un comentari tant per retirar aquest test com per retirar
-                  el xassís sencer. En el mòdul de SMD: Afegir una Línia Temporal on es mostren els estats de les línies SMD i de les òrdres d'aquestes.
+                  En el mòdul de l'historial de Test: Treure filtres innecessaris i sol·licitar un comentari tant per
+                  retirar aquest test com per retirar
+                  el xassís sencer. En el mòdul de SMD: Afegir una Línia Temporal on es mostren els estats de les línies 
+                  SMD i de les òrdres d'aquestes.
 
             Setmana 12/02/2024 - 16/02/2024
 
@@ -435,29 +441,37 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
             Setmana 26/02/2024 - 01/03/2024
 
-                  Afegir camps restants a BBDD de Zurc i Intercap perquè el Mòdul de ILUO pugui funcionar amb normalitat. En el mòdul de Planificació de torns, 
-                  al Departament de convencional que es mostren els Nodes de Làser i l'empleat assignat. En el mòdul de programacions: 
-                  Treure botó de notificar en generar una programació d'assistència o editar-ne una ja existent. 
+                  Afegir camps restants a BBDD de Zurc i Intercap perquè el Mòdul de ILUO pugui funcionar amb normalitat. 
+                  En el mòdul de Planificació de torns, 
+                  al Departament de convencional que es mostren els Nodes de Làser i l'empleat assignat. 
+                  En el mòdul de programacions:  Treure botó de notificar en generar una programació d'assistència
+                  o editar-ne una ja existent. 
                   En el mòdul de l'historial permetre retirar un ItemEvents encara que sigui KO.
 
             Setmana 11/03/2024 - 15/03/2024
 
-                  Arreglat Bug que no permetia veure les etiquetes heretades per família. Generat Script al Servidor VA de borratge automàtic setmanal d'imatges antigues. 
+                  Arreglat Bug que no permetia veure les etiquetes heretades per família. 
+                  Generat Script al Servidor VA de borratge automàtic setmanal d'imatges antigues. 
                   Planificació i assajos de la Presentació del Projecte Lynx, generar PowerPoint, estudiar guió, etc. 
                   En el mòdul de Documents s'ha restringit el poder gestionar documents heretats, 
-                  indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions per nodo en Zurc i Dezac amb OT.
+                  indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions 
+                  per nodo en Zurc i Dezac amb Oficina Tecnica.
 
             Setmana 18/03/2024 - 22/03/2024
 
-                  En el gestor de tots els documents comprovar si el mateix document està enllaçat més d'una vegada i mostrar el més restrictiu,
-                  a més d'en el combobox preseleccionar el que més coincideixi amb el codi cercat. Arreglat Bug en certes 
-                  pàgines al previsualitzar-se descarregava el document en lloc de mostrar-lo. 
+                  En el gestor de tots els documents comprovar si el mateix document està enllaçat 
+                  més d'una vegada i mostrar el més restrictiu,
+                  a més d'en el combobox preseleccionar el que més coincideixi amb el codi cercat.
+                  Arreglat Bug en certes pàgines al previsualitzar-se descarregava el document
+                  en lloc de mostrar-lo. 
                   Canviar format hora en els errors de test al resum de famílies.
 
             Setmana 25/03/2024 - 29/03/2024
 
-                  Afegit nou camp el qual calcula els equips que s'han fabricat en un torn-nodo-operari-etc.
-                  Es vol comptar només la primera vegada que el xassís té un registre OK en el mateix producte i fase i afegit 
+                  Afegit nou camp el qual calcula els equips que s'han fabricat en un 
+                  torn-nodo-operari-etc.
+                  Es vol comptar només la primera vegada que el xassís té un registre 
+                  OK en el mateix producte i fase i afegit 
                   en l'informe de torn amb el qual es calcula la facturació del mateix.
 
 
@@ -465,31 +479,36 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
            Setmana 01/04/2024 - 05/04/2024
 
-                  Habilitat la lectura de codis de barra 1D des de l'aplicació de manteniment. Dissenyar i afegir icona 
-                  a l'aplicació de manteniment. 
-                  La vista de cerca de béns podria funcionar sense prémer el botó de cerca a l'aplicació de manteniment.
+                  Habilitat la lectura de codis de barra 1D des de l'aplicació de manteniment. 
+                  Dissenyar i afegir icona a l'aplicació de manteniment. 
+                  La vista de cerca de béns podria funcionar sense prémer el botó de cerca a 
+                  l'aplicació de manteniment.
 
            Setmana 08/04/2024 - 12/04/2024
 
-                  En la vista de gestió de documents de OT, Quan es selecciona una família, que no es deshabiliti el 
+                  En la vista de gestió de documents de OT, Quan es selecciona una família,
+                  que no es deshabiliti el 
                   camp de producte, sinó que apareguin els productes de la família. 
                   Afegir una barra cronològica de productes en la vista de resum SMD de cada línia.
 
            Setmana 15/04/2024 - 19/04/2024
                   
                   Redimensionar la vista principal de l'aplicació de manteniment. 
-                  Assignació automàtica (a empleat) en incidències des de Manager tenint en compte el tipus d'incidència o model lead.
+                  Assignació automàtica (a empleat) en incidències des de Manager tenint en 
+                  compte el tipus d'incidència o model lead.
 
            Setmana 22/04/2024 - 26/04/2024
 
                   Mostrar a la vista d'indicadors de manteniment els temps sense necessitat de fer hover. 
                   Redimensionar el gràfic d'indicadors tenint en compte la mida de la pantalla.
-                  S'ha arreglat un problema que en crear una incidència la funció de suggerir assignat i assignar-te 
+                  S'ha arreglat un problema que en crear una incidència la funció de
+                  suggerir assignat i assignar-te 
                   a tu mateix no funcionava correctament.
 
            Setmana 29/04/2024 - 03/05/2024
 
-                  S'han solucionat diversos errors trobats tant a la vista d'anàlisi per família/producte/ordre com 
+                  S'han solucionat diversos errors trobats tant a la vista d'anàlisi per 
+                  família/producte/ordre com 
                   a la vista d'anàlisi per seccions. 
                   S'ha afegit el número de xassís i el número de sèrie al component del panell de test.
 
@@ -503,8 +522,10 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
            Setmana 13/05/2024 - 17/05/2024
 
-                  Instruccions: En obrir el diàleg que afegeix una instrucció a un node hauria de sortir la descripció del node i no només l'ID.
-                  Documents: Si es pugen les instruccions a un node pare, no es veuen als fills. Manteniment: Fer el cercador de béns més intel·ligent.
+                  Instruccions: En obrir el diàleg que afegeix una instrucció a un node hauria 
+                  de sortir la descripció del node i no només l'ID.
+                  Documents: Si es pugen les instruccions a un node pare, no es veuen als fills.
+                  Manteniment: Fer el cercador de béns més intel·ligent.
 
 
             Setmana 20/05/2024 - 24/05/2024
@@ -513,13 +534,15 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   Problemes a Zurc amb consultes que pesen molt al reportador per IT
                   Indicar finishedon a la taula Ordre no només a Ordre Stage
                   No funciona el lector de codis a l'app de tauleta de manteniment
-                  Manteniment. En minimitzar una ubicació en la programació anual, es descol·la el calendari
+                  Manteniment. En minimitzar una ubicació en la programació anual,
+                  es descol·la el calendari
                   Incidències. En l'anàlisi, afegir un flag per veure només les incidències que tenen una parada associada.
 
             Setmana 27/05/2024 - 31/05/2024
                   
                   Anàlisi. En filtrar per ordre en l'anàlisi per producte, el filtre de dates no canvia.
-                  CMES Manager. En la vista d'instruccions, no es veuen les instruccions de la família si un producte té instrucció
+                  CMES Manager. En la vista d'instruccions, no es veuen les instruccions 
+                  de la família si un producte té instrucció
                   Incidències. Les incidències no haurien d'assignar-se automàticament durant la seva creació
                   Carrega massiva d'usuaris a AD per introduir el camp de data d'alta a l'empresa.
                   Preparació presentació pràctiques dual cecot
@@ -542,5 +565,3 @@ En conclusió, en el punt en el qual estic ara, no m'imagino jo mateix sense hav
 En especial al Raul Salvador, on ha complert la seva funció de tutor dintre l'empresa en un 10000%, també a Guillermo Guerrero i Victor Carretero per la seva funció de tutors DUAL dintre l'institut, als meus companys també alumnes DUAL Jonathan, Alex i Yeray que sense ells hagués sigut una experiència molt més avorrida, a tots els meus companys del departament IT i IDP on gràcies a ells he après moltíssim contingut que em servirà per al meu futur professional.
 
 Per últim, m'agradaria motivar als alumnes que comencen ara aquesta experiència i que puguin treure molts beneficis com jo he fet.
-
-
