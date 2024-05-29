@@ -2,7 +2,7 @@
 
 Em dic Pol Ribera Aymerich i visc a Terrassa.
 
-Estudio a l'institut Nicolau Copèrnic es troba al barri de Can Boada del Pi de Terrassa. En aquest centre es poden cursar l'ESO i les quatre branques bàsiques de batxillerat. També s'ofereix formació professional amb un cicle formatiu de grau mitjà en Sistemes Microinformàtics i Xarxes (SMIX) i tres modalitats superiors: Administració de Sistemes Informàtics en Xarxa (ASIX), Desenvolupament d'Aplicacions Multiplataforma (DAM) i Desenvolupament d'Aplicacions Web (DAW).
+Estudio a l'institut Nicolau Copèrnic que es troba al barri de Can Boada del Pi de Terrassa. En aquest centre es poden cursar l'ESO i les quatre branques bàsiques de batxillerat. També s'ofereix formació professional amb un cicle formatiu de grau mitjà en Sistemes Microinformàtics i Xarxes (SMIX) i tres modalitats superiors: Administració de Sistemes Informàtics en Xarxa (ASIX), Desenvolupament d'Aplicacions Multiplataforma (DAM) i Desenvolupament d'Aplicacions Web (DAW).
 
 Estic cursant el Cicle Formatiu de Grau Superior (CFGS) en Desenvolupament d'Aplicacions Multiplataforma, que pertany a la família d'Informàtica.
 
