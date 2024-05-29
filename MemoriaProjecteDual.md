@@ -1,4 +1,4 @@
-Presentació Alumne
+# Presentació Alumne
 
 Em dic Pol Ribera Aymerich i visc a Terrassa.
 
@@ -11,7 +11,7 @@ La meva motivació per escollir aquest cicle va sorgir durant el grau mitjà, qu
 Els meus objectius amb l’estada són veure com funciona el món laboral de manera més real, formar-me sobre les eines més utilitzades a les empreses i obtenir experiència de treball per al meu currículum.
 
 
-Dades de l'Entitat
+# Dades de l'Entitat
 
 Estic realitzant l’estada Dual a Circutor S.A.U., situada al Vial de Sant Jordi, s/n, 08232, Barcelona.
 
@@ -25,7 +25,7 @@ Circutor S.A.U. té una infraestructura dividida en tres grans parts: el magatze
 
 
 
-Dades de l’Estada
+# Dades de l’Estada
 
 Soc becari a Circutor S.A.U. La beca consisteix en una remuneració de 5,5 euros nets per hora treballada. Les hores treballades es registren mitjançant un programa propi de fitxatge.
 
@@ -40,7 +40,7 @@ Pràctiques com a becari: del 17 de juliol fins al 28 de juny del 2024.
 Fins ara, no he tingut cap dia d’absència per vacances o malaltia.
 
 
-Relacions Professionals i Seguiment de l’Estada
+# Relacions Professionals i Seguiment de l’Estada
 El meu tutor a l'institut és Guillermo Guerrero, de manera provisional. A l'entitat, els meus tutors són Raul Salvador i Xavi Barba.
 
 La comunicació amb els tutors, tant de l'institut com de l'entitat, ha estat correcta. Sempre ens han informat bé i amb temps suficient. El tracte és molt bo, i ens ajuden en qualsevol dubte o feina que no podem realitzar nosaltres sols.
@@ -49,7 +49,7 @@ La comunicació amb la resta de companys de l'entitat i els usuaris (clients) ta
 
 Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
-Diari de pràctiques
+# Diari de pràctiques
 
 JUNY
 
@@ -475,6 +475,6 @@ Preparació presentació pràctiques dual cecot
 
 
 
-Valoració personal de l’estada Dual
+# Valoració personal de l’estada Dual
 
 
