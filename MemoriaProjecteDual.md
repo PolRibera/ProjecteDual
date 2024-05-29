@@ -1,4 +1,3 @@
-[[_TOC_]]
 # Presentació Alumne
 
 Em dic Pol Ribera Aymerich i visc a Terrassa.
