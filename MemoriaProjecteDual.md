@@ -1,4 +1,5 @@
 Presentació Alumne
+
 Em dic Pol Ribera Aymerich i visc a Terrassa.
 
 L'institut Nicolau Copèrnic es troba al barri de Can Boada del Pi de Terrassa. En aquest centre es poden cursar l'ESO i les quatre branques bàsiques de batxillerat. També s'ofereix formació professional amb un cicle formatiu de grau mitjà en Sistemes Microinformàtics i Xarxes (SMIX) i tres modalitats superiors: Administració de Sistemes Informàtics en Xarxa (ASIX), Desenvolupament d'Aplicacions Multiplataforma (DAM) i Desenvolupament d'Aplicacions Web (DAW).
@@ -11,6 +12,7 @@ Els meus objectius amb l’estada són veure com funciona el món laboral de man
 
 
 Dades de l'Entitat
+
 Estic realitzant l’estada Dual a Circutor S.A.U., situada al Vial de Sant Jordi, s/n, 08232, Barcelona.
 
 Circutor S.A.U. és una empresa dedicada al sector elèctric, especialitzada en la producció de quadres elèctrics i carregadors per a cotxes elèctrics.
@@ -24,6 +26,7 @@ Circutor S.A.U. té una infraestructura dividida en tres grans parts: el magatze
 
 
 Dades de l’Estada
+
 Soc becari a Circutor S.A.U. La beca consisteix en una remuneració de 5,5 euros nets per hora treballada. Les hores treballades es registren mitjançant un programa propi de fitxatge.
 
 Disposem d'un menjador a l'empresa, tot i que no és gratuït. El preu és força reduït, però per motius d'horari no l’utilitzo.
