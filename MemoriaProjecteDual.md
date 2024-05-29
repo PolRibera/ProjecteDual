@@ -389,16 +389,20 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
                   Modificar la vista per afegir uns filtres en un CRUD ja fet. Hem utilitzat la llibreria vueatify que ens ofereix opcions predefinides.
                   
-                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar un CRUD per gestionar els informes ja realitzats i poder veure l'usuari assignat a aquest informe, el tipus d'aquest i l'ID d'aquest.
+                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar un CRUD per gestionar els informes ja realitzats 
+                  i poder veure l'usuari assignat a aquest informe, el tipus d'aquest i l'ID d'aquest.
                   
-                  Modificar els filtres dels registres de test de producció. En aquest cas, volien que 2 columnes no es mostrassin dins de cada registre de test. Es va demanar que quan en les proves el test superi els marges, el fons d'aquesta prova s'inclogui en vermell, i que el valor de la prova estigui entre el valor mínim acceptat i el màxim acceptat.
+                  Modificar els filtres dels registres de test de producció. En aquest cas, volien que 2 columnes no es mostrassin dins de cada registre de test. 
+                  Es va demanar que quan en les proves el test superi els marges, el fons d'aquesta prova s'inclogui en vermell, 
+                  i que el valor de la prova estigui entre el valor mínim acceptat i el màxim acceptat.
 
             Setmana 05/02/2024 - 09/02/2024
 
                   Implementació CRUD de la distribució dels informes en CMES Manager. Afegir filtres a tots els components treegrids de CMES Manager. 
                   En el mòdul de reparacions: mostrar la informació del test en seleccionar-ne un (igual que està fet en el mòdul de l'historial de Test), 
                   treure la paginació en el resultat del test i quan un resultat de test estigui fora de marge, indicar-ho amb un color vermell de fons, canviar 
-                  l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, mostrar les fotografies de la reparació i canviar el color de fons en seleccionar un article per reparar. 
+                  l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, 
+                  mostrar les fotografies de la reparació i canviar el color de fons en seleccionar un article per reparar. 
                   En el mòdul de l'historial de Test: Treure filtres innecessaris i sol·licitar un comentari tant per retirar aquest test com per retirar
                   el xassís sencer. En el mòdul de SMD: Afegir una Línia Temporal on es mostren els estats de les línies SMD i de les òrdres d'aquestes.
 
@@ -411,7 +415,8 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
             Setmana 19/02/2024 - 23/02/2024
 
-                  Aplicar de forma correcta els filtres de documents. Si es troben documents amb els filtres aplicats, mostrar-los; en cas contrari, s'han de mostrar els documents del pare (Nodo, Família o Producte) i indicant d'on vénen heretats.
+                  Aplicar de forma correcta els filtres de documents. Si es troben documents amb els filtres aplicats, mostrar-los; en cas contrari, 
+                  s'han de mostrar els documents del pare (Nodo, Família o Producte) i indicant d'on vénen heretats.
                   En obrir el diàleg per gestionar els documents d'aquest Producte-Versió, Producte, Família o Nodo i tancar-lo amb la tecla ESC, funcioni amb normalitat. 
                   En el mòdul de SMD mostrar informació de l'estat en la línia temporal a mode de hover amb un tooltip i en cas de parada no planificada mostrar el motiu d'aquesta.
 
