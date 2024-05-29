@@ -135,7 +135,7 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   
                   Entrega de programa modificat de generació de firmes.
                   
-                  Solucio Incidencies relacionades amb el programa PGI (PGI es un programa que s'utilitza en producció)
+                  Solucio Incidencies relacionades amb el programa PGI (PGI es el ERP de Dezac)
 
             Setmana 31/07/2023 - 31/07/2023 (Agost Festa)
 
