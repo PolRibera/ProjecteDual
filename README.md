@@ -453,7 +453,8 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   Generat Script al Servidor VA de borratge automàtic setmanal d'imatges antigues. 
                   Planificació i assajos de la Presentació del Projecte Lynx, generar PowerPoint, estudiar guió, etc. 
                   En el mòdul de Documents s'ha restringit el poder gestionar documents heretats, 
-                  indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions per nodo en Zurc i Dezac amb OT.
+                  indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions per nodo en Zurc i Dezac 
+                  amb Oficina Tecnica.
 
             Setmana 18/03/2024 - 22/03/2024
 
