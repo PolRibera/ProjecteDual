@@ -528,4 +528,19 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
 # Valoració personal de l’estada Dual
 
+Valoro aquesta estada com a molt positiva, gràcies a aquesta no només he canviat com a alumne, sinó també com a persona.
+Dono gràcies de tot el contingut que he après (C#, Vue, JavaScript, Azure DevOps, SQL, entre altres moltíssimes eines més...) que ha fet que a l'hora de fer projectes en l'aula sigui molt més productiu.
+Trobo que el contingut que he après ha sigut importantíssim, però no arriba a punt de comparació amb el que he après durant gaire bé l'any que estat en aquesta empresa.
+Quan vaig començar anava espantat, ja que veia que m'ocuparia gran part del meu temps durant gairebé un any.
+Degut això he après a gestionar el temps d'una forma molt productiva, aprofitant tot el temps lliure disponible, per estudiar, treballar, anar a entrenar o socialitzar.
+Les hores mortes d'estar tirat al sofà amb el mòbil ja no existeixen, utilitzo les hores a manera de moneda, per intercanviables per "millores" com si es tractés d'un videojoc.
+Gràcies a aquestes pràctiques he après a ser ambiciós i a no conformar-me amb el que ja tinc. Per això he decidit anar a la universitat a estudiar el que m'agrada, encara totes les advertències de
+la dificultat dels estudis que vull cursar.
+A part d'això, he après a escoltar els consells de la gent, al final en l'empresa hi ha persones que porten més temps en aquesta que jo en aquest món i em va quedar clar un missatge, el de no parar mai d'aprendre, ja sigui en universitat, institut, acadèmia o pel teu propi compte, però no parar mai.
+
+En conclusió, en el punt en el qual estic ara, no m'imagino jo mateix sense haver experimentat aquesta estada Dual, i per això m'agradaria agrair a totes les persones que ho han fet possible.
+En especial al Raul Salvador, on ha complert la seva funció de tutor dintre l'empresa en un 10000%, també a Guillermo Guerrero i Victor Carretero per la seva funció de tutors DUAL dintre l'institut, als meus companys també alumnes DUAL Jonathan, Alex i Yeray que sense ells hagués sigut una experiència molt més avorrida, a tots els meus companys del departament IT i IDP on gràcies a ells he après moltíssim contingut que em servirà per al meu futur professional.
+
+Per últim, m'agradaria motivar als alumnes que comencen ara aquesta experiència i que puguin treure molts beneficis com jo he fet.
+
 
