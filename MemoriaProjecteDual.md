@@ -53,427 +53,427 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
 # Diari de pràctiques
 
-JUNY
-
-      Setmana 12/06/2023 - 16/06/2023
-
-Instalació al lloc de Treball.
-
-Preparació del meu equip portatil.
-
-Configuració de impresores en xarxa.
-
-Crear programa de generació automatica de firmes.
-
-      Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia
-
-Preparació de diversos equips tant portatils com sobretaula, habilitan el acces remot.
-
-Instalacio de diverses impresores tant normals com d'etiquetes en xarxa amb DHCP.
-
-Desenvolupament de la aplicacio que genera les fimres electroniques automaticament.
-
-Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els numeros de telefons.
-
-      Setmana 26/06/2023 - 30/06/2023
-
-Configurar i instal·lar diversos PCs.
-
-Muntatge de diversos monitors.
-
-Entrega de la Aplicació de generació de firmes en cmd, començament desenvolupament GUI.
-
-Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
-
-JULIOL
-
-      Setmana 03/07/2023 - 07/07/2023 Dilluns 03/07/2023,Dimecres 05/07/2023 Absencia
-
-Reciclatge de equips del CPD.
-
-Continuament de desenvolupar GUI per el programa de firmes.
-
-Muntatge de estanteries per el CPD, per millor organització.
-
-Preparacio de diversos Equips.
-
-      Setmana 10/07/2023 - 14/07/2023
-
-Configuració de diverses tauletes Microsoft Surface.
-
-Entrega final del programa de generació de firmes.
-
-Instalacio de drivers.
-
-Configuració d'equips portatils.
-
-Configruació de Smartphones amb el programa Sophos.
-
-      Setmana 17/07/2023 - 21/07/2023
-
-Preparació de diversos equips portatils.
-
-Muntatge de lloc de treball.
-
-Preparació de diversos smartphones.
-
-Modificació scripts Rasberry Pi en producció.
-
-Modificació programa firmes per utilitzar una nova plantilla.
-
-Afegir accesos directes en diversos PC de producció.
-
-      Setmana 24/07/2023 - 28/07/2023
-
-Preparació de diversos equips portatils.
-
-Modificació i activació de diverses linies de Vodafone desde el portal Mi Vodafone
-
-Incidencies diverses amb canvi de contrasenyes de Active Directory
-
-Instalacions de diverses impresores en equips remots.
-
-Entrega de programa modificat de generació de firmes.
-
-Solucio Incidencies relacionades amb el programa PGI (PGI es un programa que s'utilitza en producció)
-
-      Setmana 31/07/2023 - 31/07/2023 (Agost Festa)
-
-Preparació d'un equip portatil
-
-Instalació d'una impresora d'etiquetes a la zona de Metering
-
-SETEMBRE
-
-      Setmana 01/09/2023 - 01/09/2023
-
-Configurades diverses impresores d'etiquetes per la zona de Producció.
-
-Modificació de contasenyes desde Active Directory.
-
-Començament desenvolupament aplicació autoinstalar programes per fer les preparacions del equips mes rapid.
-
-      Setmana 04/09/2023 - 08/09/2023
-
-Preparació de diversos equips portatils.
-
-Configuració Outlook pero utilitzar llistes de difusió.
-
-Configuració Navegadors per utilitzar certificat HTTP.
-
-Instalació de Windows 10 en un equip que anira ubicat dintre un cargador.
-
-Modificació Script Intel NUC autoarranque perque mostri informació en dues pantalles.
-
-Configuració de Impresores d'etiquetes Intermek per la zona de Producció
-
-      Setmana 11/09/2023 - 15/09/2023
-
-Preparació de diversos equips portatils.
-
-Instalació i configuració Impresores de etiquetes per la zona de Metering.
-
-Instalació de Politiques en el antivirus Sophos.
-
-Gestio de Usuaris en Active Directory
-
-Gestio de adaptador de xarxa.
-
-Generació de firmes amb el programa anteriorment creat.
-
-      Setmana 18/09/2023 - 22/09/2023
-
-Preparació de diversos equips portatils.
-
-Configuració de diverses impresores en xarxa.
-
-Instalació de diverses impresores d'etiquetes.
-
-Solució a un error comú a la hora de instalar el programa PGI.
-
-Modificació Script Autoarranque Rasberry Pi.
-
-      Setmana 25/09/2023 - 29/09/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-Entrega Programa per la gestio remota dels mini PCs.
-
-Reserva de equips en el servidor DHCP.
-
-Afegir equips al domini de la empresa
-
-OCTUBRE
-
-      Setmana 02/10/2023 - 06/10/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-Afegir Informació a la BBDD de Licencies.
-
-Configuració de una aplicació per la gestio remota de les pantalles.
-
-Configuració de adaptador de xarxa.
-
-      Setmana 09/10/2023 - 13/10/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-Reinstalació de diversos programes amb mal funcionament.
-
-      Setmana 16/10/2023 - 20/10/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-Gestio Error Impresora Etiquetes Defectuosa Arreglada
-
-Reinstalació de diversos programes amb mal funcionament.
-
-Gestio de Adaptador de Xarxes diversos.
-
-      Setmana 23/10/2023 - 27/10/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-Modificació de Copies de Seguretat en dispositius Smartphones
-
-Instalacións de drivers en les maquines de producció
-
-Modificació de navegadors per utilitza certificarts HTTP
-
-NOVEMBRE
-
-      Setmana 30/10/2023 - 03/11/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-Instalació VPN personalitzat per tecnincs de SAT.
-
-      Setmana 06/11/2023 - 10/11/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-      Setmana 13/11/2023 - 17/11/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-Gestio de linies mitjançant la web de Vodafone.
-
-Actualitzar VPN a diversos usuaris.
-
-Instalació a diversos PC el programa PGI.
-
-      Setmana 20/11/2023 - 24/11/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-      Setmana 27/11/2023 - 01/12/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-DESEMBRE
-
-      Setmana 04/12/2023 - 08/12/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-      Setmana 11/12/2023 - 15/12/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-      Setmana 11/12/2023 - 15/12/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-      Setmana 18/12/2023 - 22/12/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-      Setmana 25/12/2023 - 29/12/2023
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-GENER
-
-      Setmana 01/01/2024 - 05/01/2024
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-      Setmana 08/01/2024 - 12/01/2024
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
-
-      Setmana 15/01/2024 - 19/01/2024
-
-Preparació de diversos equips portatils.
-
-Instalació de diverses impresores d'etiquetes.
-
-Gestio d'Usuaris per Active Directory.
+      JUNY
+
+            Setmana 12/06/2023 - 16/06/2023
+
+                  Instalació al lloc de Treball.
+                  
+                  Preparació del meu equip portatil.
+                  
+                  Configuració de impresores en xarxa.
+                  
+                  Crear programa de generació automatica de firmes.
+
+            Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia
+
+                  Preparació de diversos equips tant portatils com sobretaula, habilitan el acces remot.
+                  
+                  Instalacio de diverses impresores tant normals com d'etiquetes en xarxa amb DHCP.
+                  
+                  Desenvolupament de la aplicacio que genera les fimres electroniques automaticament.
+                  
+                  Modificació de totes les firmes de la empresa, ja que s'han cambiat tots els numeros de telefons.
+
+            Setmana 26/06/2023 - 30/06/2023
+
+                  Configurar i instal·lar diversos PCs.
+                  
+                  Muntatge de diversos monitors.
+                  
+                  Entrega de la Aplicació de generació de firmes en cmd, començament desenvolupament GUI.
+                  
+                  Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
+
+      JULIOL
+
+            Setmana 03/07/2023 - 07/07/2023 Dilluns 03/07/2023,Dimecres 05/07/2023 Absencia
+
+                  Reciclatge de equips del CPD.
+                  
+                  Continuament de desenvolupar GUI per el programa de firmes.
+                  
+                  Muntatge de estanteries per el CPD, per millor organització.
+                  
+                  Preparacio de diversos Equips.
+
+            Setmana 10/07/2023 - 14/07/2023
+
+                  Configuració de diverses tauletes Microsoft Surface.
+                  
+                  Entrega final del programa de generació de firmes.
+                  
+                  Instalacio de drivers.
+                  
+                  Configuració d'equips portatils.
+                  
+                  Configruació de Smartphones amb el programa Sophos.
+
+            Setmana 17/07/2023 - 21/07/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Muntatge de lloc de treball.
+                  
+                  Preparació de diversos smartphones.
+                  
+                  Modificació scripts Rasberry Pi en producció.
+                  
+                  Modificació programa firmes per utilitzar una nova plantilla.
+                  
+                  Afegir accesos directes en diversos PC de producció.
+
+            Setmana 24/07/2023 - 28/07/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Modificació i activació de diverses linies de Vodafone desde el portal Mi Vodafone
+                  
+                  Incidencies diverses amb canvi de contrasenyes de Active Directory
+                  
+                  Instalacions de diverses impresores en equips remots.
+                  
+                  Entrega de programa modificat de generació de firmes.
+                  
+                  Solucio Incidencies relacionades amb el programa PGI (PGI es un programa que s'utilitza en producció)
+
+            Setmana 31/07/2023 - 31/07/2023 (Agost Festa)
+
+                  Preparació d'un equip portatil
+                  
+                  Instalació d'una impresora d'etiquetes a la zona de Metering
+
+      SETEMBRE
+
+            Setmana 01/09/2023 - 01/09/2023
+            
+                  Configurades diverses impresores d'etiquetes per la zona de Producció.
+                  
+                  Modificació de contasenyes desde Active Directory.
+                  
+                  Començament desenvolupament aplicació autoinstalar programes per fer les preparacions del equips mes rapid.
+
+            Setmana 04/09/2023 - 08/09/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Configuració Outlook pero utilitzar llistes de difusió.
+                  
+                  Configuració Navegadors per utilitzar certificat HTTP.
+                  
+                  Instalació de Windows 10 en un equip que anira ubicat dintre un cargador.
+                  
+                  Modificació Script Intel NUC autoarranque perque mostri informació en dues pantalles.
+                  
+                  Configuració de Impresores d'etiquetes Intermek per la zona de Producció
+
+            Setmana 11/09/2023 - 15/09/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació i configuració Impresores de etiquetes per la zona de Metering.
+                  
+                  Instalació de Politiques en el antivirus Sophos.
+                  
+                  Gestio de Usuaris en Active Directory
+                  
+                  Gestio de adaptador de xarxa.
+                  
+                  Generació de firmes amb el programa anteriorment creat.
+
+            Setmana 18/09/2023 - 22/09/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Configuració de diverses impresores en xarxa.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Solució a un error comú a la hora de instalar el programa PGI.
+                  
+                  Modificació Script Autoarranque Rasberry Pi.
+
+            Setmana 25/09/2023 - 29/09/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+                  
+                  Entrega Programa per la gestio remota dels mini PCs.
+                  
+                  Reserva de equips en el servidor DHCP.
+                  
+                  Afegir equips al domini de la empresa
+
+      OCTUBRE
+
+            Setmana 02/10/2023 - 06/10/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+                  
+                  Afegir Informació a la BBDD de Licencies.
+                  
+                  Configuració de una aplicació per la gestio remota de les pantalles.
+                  
+                  Configuració de adaptador de xarxa.
+
+            Setmana 09/10/2023 - 13/10/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+                  
+                  Reinstalació de diversos programes amb mal funcionament.
+
+            Setmana 16/10/2023 - 20/10/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+                  
+                  Gestio Error Impresora Etiquetes Defectuosa Arreglada
+                  
+                  Reinstalació de diversos programes amb mal funcionament.
+                  
+                  Gestio de Adaptador de Xarxes diversos.
+
+            Setmana 23/10/2023 - 27/10/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+                  
+                  Modificació de Copies de Seguretat en dispositius Smartphones
+                  
+                  Instalacións de drivers en les maquines de producció
+                  
+                  Modificació de navegadors per utilitza certificarts HTTP
+
+      NOVEMBRE
+
+            Setmana 30/10/2023 - 03/11/2023
+                  
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+                  
+                  Instalació VPN personalitzat per tecnincs de SAT.
+
+            Setmana 06/11/2023 - 10/11/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+            Setmana 13/11/2023 - 17/11/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+                  
+                  Gestio de linies mitjançant la web de Vodafone.
+                  
+                  Actualitzar VPN a diversos usuaris.
+            
+                  Instalació a diversos PC el programa PGI.
+
+            Setmana 20/11/2023 - 24/11/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+            Setmana 27/11/2023 - 01/12/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+      DESEMBRE
+
+            Setmana 04/12/2023 - 08/12/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+            Setmana 11/12/2023 - 15/12/2023
+                  
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+            Setmana 11/12/2023 - 15/12/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+            Setmana 18/12/2023 - 22/12/2023
+                  
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+            Setmana 25/12/2023 - 29/12/2023
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+      GENER
+
+            Setmana 01/01/2024 - 05/01/2024
+                  
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+            Setmana 08/01/2024 - 12/01/2024
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
+
+            Setmana 15/01/2024 - 19/01/2024
+
+                  Preparació de diversos equips portatils.
+                  
+                  Instalació de diverses impresores d'etiquetes.
+                  
+                  Gestio d'Usuaris per Active Directory.
 
        Setmana 22/01/2024 - 26/01/2024
 
-Durant aquesta setmana, he estat mogut de departament després d'estar gairebé 6 mesos a l'equip de Suport IT. He estat traslladat a l'equip de desenvolupament com a becari.
+            Durant aquesta setmana, he estat mogut de departament després d'estar gairebé 6 mesos a l'equip de Suport IT. He estat traslladat a l'equip de desenvolupament com a becari.
 
-FEBRER
+      FEBRER
 
-      Setmana 29/01/2024 - 02/02/2024
+            Setmana 29/01/2024 - 02/02/2024
 
-Modificar la vista per afegir uns filtres en un CRUD ja fet. Hem utilitzat la llibreria vueatify que ens ofereix opcions predefinides.
+                  Modificar la vista per afegir uns filtres en un CRUD ja fet. Hem utilitzat la llibreria vueatify que ens ofereix opcions predefinides.
+                  
+                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar un CRUD per gestionar els informes ja realitzats i poder veure l'usuari assignat a aquest informe, el tipus d'aquest i l'ID d'aquest.
+                  
+                  Modificar els filtres dels registres de test de producció. En aquest cas, volien que 2 columnes no es mostrassin dins de cada registre de test. Es va demanar que quan en les proves el test superi els marges, el fons d'aquesta prova s'inclogui en vermell, i que el valor de la prova estigui entre el valor mínim acceptat i el màxim acceptat.
 
-CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar un CRUD per gestionar els informes ja realitzats i poder veure l'usuari assignat a aquest informe, el tipus d'aquest i l'ID d'aquest.
+            Setmana 05/02/2024 - 09/02/2024
 
-Modificar els filtres dels registres de test de producció. En aquest cas, volien que 2 columnes no es mostrassin dins de cada registre de test. Es va demanar que quan en les proves el test superi els marges, el fons d'aquesta prova s'inclogui en vermell, i que el valor de la prova estigui entre el valor mínim acceptat i el màxim acceptat.
+                  Implementació CRUD de la distribució dels informes en CMES Manager. Afegir filtres a tots els components treegrids de CMES Manager. En el mòdul de reparacions: mostrar la informació del test en seleccionar-ne un (igual que està fet en el mòdul de l'historial de Test), treure la paginació en el resultat del test i quan un resultat de test estigui fora de marge, indicar-ho amb un color vermell de fons, canviar l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, mostrar les fotografies de la reparació i canviar el color de fons en seleccionar un article per reparar. En el mòdul de l'historial de Test: Treure filtres innecessaris i sol·licitar un comentari tant per retirar aquest test com per retirar el xassís sencer. En el mòdul de SMD: Afegir una Línia Temporal on es mostren els estats de les línies SMD i de les òrdres d'aquestes.
 
-      Setmana 05/02/2024 - 09/02/2024
+            Setmana 12/02/2024 - 16/02/2024
 
-Implementació CRUD de la distribució dels informes en CMES Manager. Afegir filtres a tots els components treegrids de CMES Manager. En el mòdul de reparacions: mostrar la informació del test en seleccionar-ne un (igual que està fet en el mòdul de l'historial de Test), treure la paginació en el resultat del test i quan un resultat de test estigui fora de marge, indicar-ho amb un color vermell de fons, canviar l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, mostrar les fotografies de la reparació i canviar el color de fons en seleccionar un article per reparar. En el mòdul de l'historial de Test: Treure filtres innecessaris i sol·licitar un comentari tant per retirar aquest test com per retirar el xassís sencer. En el mòdul de SMD: Afegir una Línia Temporal on es mostren els estats de les línies SMD i de les òrdres d'aquestes.
+                  En les assistències, un cop marcada com a completada, demana un comentari de resolució amb una longitud màxima permesa determinada. Afegir un previsualitzador de PDF responsive a la pàgina de béns. Quan s'afegeix un nou fitxer apareix un botó que obre un diàleg amb el PDF previsualitzat. En el mòdul de Documents afegir la funció de poder afegir, editar, eliminar i filtrar documents per Nodo, els quals es veuen reflectits en el CMES Line si el document afegit al Nodo són noves instruccions, aquestes es mostren igual que es mostraven les instruccions de família, producte i producte-versió.
 
-      Setmana 12/02/2024 - 16/02/2024
+            Setmana 19/02/2024 - 23/02/2024
 
-En les assistències, un cop marcada com a completada, demana un comentari de resolució amb una longitud màxima permesa determinada. Afegir un previsualitzador de PDF responsive a la pàgina de béns. Quan s'afegeix un nou fitxer apareix un botó que obre un diàleg amb el PDF previsualitzat. En el mòdul de Documents afegir la funció de poder afegir, editar, eliminar i filtrar documents per Nodo, els quals es veuen reflectits en el CMES Line si el document afegit al Nodo són noves instruccions, aquestes es mostren igual que es mostraven les instruccions de família, producte i producte-versió.
+                  Aplicar de forma correcta els filtres de documents. Si es troben documents amb els filtres aplicats, mostrar-los; en cas contrari, s'han de mostrar els documents del pare (Nodo, Família o Producte) i indicant d'on vénen heretats. En obrir el diàleg per gestionar els documents d'aquest Producte-Versió, Producte, Família o Nodo i tancar-lo amb la tecla ESC, funcioni amb normalitat. En el mòdul de SMD mostrar informació de l'estat en la línia temporal a mode de hover amb un tooltip i en cas de parada no planificada mostrar el motiu d'aquesta.
 
-      Setmana 19/02/2024 - 23/02/2024
+      MARÇ
 
-Aplicar de forma correcta els filtres de documents. Si es troben documents amb els filtres aplicats, mostrar-los; en cas contrari, s'han de mostrar els documents del pare (Nodo, Família o Producte) i indicant d'on vénen heretats. En obrir el diàleg per gestionar els documents d'aquest Producte-Versió, Producte, Família o Nodo i tancar-lo amb la tecla ESC, funcioni amb normalitat. En el mòdul de SMD mostrar informació de l'estat en la línia temporal a mode de hover amb un tooltip i en cas de parada no planificada mostrar el motiu d'aquesta.
+            Setmana 26/02/2024 - 01/03/2024
 
-MARÇ
+                  Afegir camps restants a BBDD de Zurc i Intercap perquè el Mòdul de ILUO pugui funcionar amb normalitat. En el mòdul de Planificació de torns, al Departament de convencional que es mostren els Nodes de Làser i l'empleat assignat. En el mòdul de programacions: Treure botó de notificar en generar una programació d'assistència o editar-ne una ja existent. En el mòdul de l'historial permetre retirar un ItemEvents encara que sigui KO.
 
-      Setmana 26/02/2024 - 01/03/2024
+            Setmana 11/03/2024 - 15/03/2024
 
-Afegir camps restants a BBDD de Zurc i Intercap perquè el Mòdul de ILUO pugui funcionar amb normalitat. En el mòdul de Planificació de torns, al Departament de convencional que es mostren els Nodes de Làser i l'empleat assignat. En el mòdul de programacions: Treure botó de notificar en generar una programació d'assistència o editar-ne una ja existent. En el mòdul de l'historial permetre retirar un ItemEvents encara que sigui KO.
+                  Arreglat Bug que no permetia veure les etiquetes heretades per família. Generat Script al Servidor VA de borratge automàtic setmanal d'imatges antigues. Planificació i assajos de la Presentació del Projecte Lynx, generar PowerPoint, estudiar guió, etc. En el mòdul de Documents s'ha restringit el poder gestionar documents heretats, indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions per nodo en Zurc i Dezac amb OT.
 
-      Setmana 11/03/2024 - 15/03/2024
+            Setmana 18/03/2024 - 22/03/2024
 
-Arreglat Bug que no permetia veure les etiquetes heretades per família. Generat Script al Servidor VA de borratge automàtic setmanal d'imatges antigues. Planificació i assajos de la Presentació del Projecte Lynx, generar PowerPoint, estudiar guió, etc. En el mòdul de Documents s'ha restringit el poder gestionar documents heretats, indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions per nodo en Zurc i Dezac amb OT.
+                  En el gestor de tots els documents comprovar si el mateix document està enllaçat més d'una vegada i mostrar el més restrictiu, a més d'en el combobox preseleccionar el que més coincideixi amb el codi cercat. Arreglat Bug en certes pàgines al previsualitzar-se descarregava el document en lloc de mostrar-lo. Canviar format hora en els errors de test al resum de famílies.
 
-      Setmana 18/03/2024 - 22/03/2024
+            Setmana 25/03/2024 - 29/03/2024
 
-En el gestor de tots els documents comprovar si el mateix document està enllaçat més d'una vegada i mostrar el més restrictiu, a més d'en el combobox preseleccionar el que més coincideixi amb el codi cercat. Arreglat Bug en certes pàgines al previsualitzar-se descarregava el document en lloc de mostrar-lo. Canviar format hora en els errors de test al resum de famílies.
-
-      Setmana 25/03/2024 - 29/03/2024
-
-Afegit nou camp el qual calcula els equips que s'han fabricat en un torn-nodo-operari-etc. Es vol comptar només la primera vegada que el xassís té un registre OK en el mateix producte i fase i afegit en l'informe de torn amb el qual es calcula la facturació del mateix.
-
-
-ABRIL
-
-     Setmana 01/04/2024 - 05/04/2024
-
-Habilitat la lectura de codis de barra 1D des de l'aplicació de manteniment. Dissenyar i afegir icona a l'aplicació de manteniment. La vista de cerca de béns podria funcionar sense prémer el botó de cerca a l'aplicació de manteniment.
-
-     Setmana 08/04/2024 - 12/04/2024
-
-En la vista de gestió de documents de OT, Quan es selecciona una família, que no es deshabiliti el camp de producte, sinó que apareguin els productes de la família. Afegir una barra cronològica de productes en la vista de resum SMD de cada línia.
-
-     Setmana 15/04/2024 - 19/04/2024
-
-Redimensionar la vista principal de l'aplicació de manteniment. Assignació automàtica (a empleat) en incidències des de Manager tenint en compte el tipus d'incidència o model lead.
-
-     Setmana 22/04/2024 - 26/04/2024
-
-Mostrar a la vista d'indicadors de manteniment els temps sense necessitat de fer hover. Redimensionar el gràfic d'indicadors tenint en compte la mida de la pantalla. S'ha arreglat un problema que en crear una incidència la funció de suggerir assignat i assignar-te a tu mateix no funcionava correctament.
-
-     Setmana 29/04/2024 - 03/05/2024
-
-S'han solucionat diversos errors trobats tant a la vista d'anàlisi per família/producte/ordre com a la vista d'anàlisi per seccions. S'ha afegit el número de xassís i el número de sèrie al component del panell de test.
+                  Afegit nou camp el qual calcula els equips que s'han fabricat en un torn-nodo-operari-etc. Es vol comptar només la primera vegada que el xassís té un registre OK en el mateix producte i fase i afegit en l'informe de torn amb el qual es calcula la facturació del mateix.
 
 
-MAIG
+      ABRIL
 
-     Setmana 06/05/2024 - 10/05/2024
+           Setmana 01/04/2024 - 05/04/2024
 
-Anàlisi: El gràfic cronològic no s'adapta a les dates establertes en el filtre. Anàlisi: Les consultes de temps en l'anàlisi per producte fan que el servidor SQL es bloquegi.
+                  Habilitat la lectura de codis de barra 1D des de l'aplicació de manteniment. Dissenyar i afegir icona a l'aplicació de manteniment. La vista de cerca de béns podria funcionar sense prémer el botó de cerca a l'aplicació de manteniment.
 
-     Setmana 13/05/2024 - 17/05/2024
+           Setmana 08/04/2024 - 12/04/2024
 
-Instruccions: En obrir el diàleg que afegeix una instrucció a un node hauria de sortir la descripció del node i no només l'ID. Documents: Si es pugen les instruccions a un node pare, no es veuen als fills. Manteniment: Fer el cercador de béns més intel·ligent.
+                  En la vista de gestió de documents de OT, Quan es selecciona una família, que no es deshabiliti el camp de producte, sinó que apareguin els productes de la família. Afegir una barra cronològica de productes en la vista de resum SMD de cada línia.
+
+           Setmana 15/04/2024 - 19/04/2024
+                  
+                  Redimensionar la vista principal de l'aplicació de manteniment. Assignació automàtica (a empleat) en incidències des de Manager tenint en compte el tipus d'incidència o model lead.
+
+           Setmana 22/04/2024 - 26/04/2024
+
+                  Mostrar a la vista d'indicadors de manteniment els temps sense necessitat de fer hover. Redimensionar el gràfic d'indicadors tenint en compte la mida de la pantalla. S'ha arreglat un problema que en crear una incidència la funció de suggerir assignat i assignar-te a tu mateix no funcionava correctament.
+
+           Setmana 29/04/2024 - 03/05/2024
+
+                  S'han solucionat diversos errors trobats tant a la vista d'anàlisi per família/producte/ordre com a la vista d'anàlisi per seccions. S'ha afegit el número de xassís i el número de sèrie al component del panell de test.
 
 
-      Setmana 20/05/2024 - 24/05/2024
+      MAIG
 
-No funciona la visualització dels paràmetres per família a CMES
-Problemes a Zurc amb consultes que pesen molt al reportador per IT
-Indicar finishedon a la taula Ordre no només a Ordre Stage
-No funciona el lector de codis a l'app de tauleta de manteniment
-Manteniment. En minimitzar una ubicació en la programació anual, es descol·la el calendari
-Incidències. En l'anàlisi, afegir un flag per veure només les incidències que tenen una parada associada.
+           Setmana 06/05/2024 - 10/05/2024
 
-      Setmana 27/05/2024 - 31/05/2024
+                  Anàlisi: El gràfic cronològic no s'adapta a les dates establertes en el filtre. Anàlisi: Les consultes de temps en l'anàlisi per producte fan que el servidor SQL es bloquegi.
 
-Anàlisi. En filtrar per ordre en l'anàlisi per producte, el filtre de dates no canvia.
-CMES Manager. En la vista d'instruccions, no es veuen les instruccions de la família si un producte té instrucció
-Incidències. Les incidències no haurien d'assignar-se automàticament durant la seva creació
-Carrega massiva d'usuaris a AD per introduir el camp de data d'alta a l'empresa.
-Preparació presentació pràctiques dual cecot
+           Setmana 13/05/2024 - 17/05/2024
+
+                  Instruccions: En obrir el diàleg que afegeix una instrucció a un node hauria de sortir la descripció del node i no només l'ID. Documents: Si es pugen les instruccions a un node pare, no es veuen als fills. Manteniment: Fer el cercador de béns més intel·ligent.
+
+
+            Setmana 20/05/2024 - 24/05/2024
+
+                  No funciona la visualització dels paràmetres per família a CMES
+                  Problemes a Zurc amb consultes que pesen molt al reportador per IT
+                  Indicar finishedon a la taula Ordre no només a Ordre Stage
+                  No funciona el lector de codis a l'app de tauleta de manteniment
+                  Manteniment. En minimitzar una ubicació en la programació anual, es descol·la el calendari
+                  Incidències. En l'anàlisi, afegir un flag per veure només les incidències que tenen una parada associada.
+
+            Setmana 27/05/2024 - 31/05/2024
+                  
+                  Anàlisi. En filtrar per ordre en l'anàlisi per producte, el filtre de dates no canvia.
+                  CMES Manager. En la vista d'instruccions, no es veuen les instruccions de la família si un producte té instrucció
+                  Incidències. Les incidències no haurien d'assignar-se automàticament durant la seva creació
+                  Carrega massiva d'usuaris a AD per introduir el camp de data d'alta a l'empresa.
+                  Preparació presentació pràctiques dual cecot
 
 
 
