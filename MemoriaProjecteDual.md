@@ -37,9 +37,7 @@ Durant el període de prova, vaig completar un total de 88 hores de FCT. Com a b
 La meva estada es va temporitzar de la següent manera:
 
 Període de prova: del 12 de juny fins al 14 de juliol.
-
 Pràctiques com a becari: del 17 de juliol fins al 28 de juny del 2024.
-
 Fins ara, no he tingut cap dia d’absència per vacances o malaltia.
 
 
