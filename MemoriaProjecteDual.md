@@ -381,15 +381,18 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
        Setmana 22/01/2024 - 26/01/2024
 
-            Durant aquesta setmana, he estat mogut de departament després d'estar gairebé 6 mesos a l'equip de Suport IT. He estat traslladat a l'equip de desenvolupament com a becari.
+            Durant aquesta setmana, he estat mogut de departament després d'estar gairebé 6 mesos a l'equip de Suport IT. 
+            He estat traslladat a l'equip de desenvolupament com a becari.
 
       FEBRER
 
             Setmana 29/01/2024 - 02/02/2024
 
-                  Modificar la vista per afegir uns filtres en un CRUD ja fet. Hem utilitzat la llibreria vueatify que ens ofereix opcions predefinides.
+                  Modificar la vista per afegir uns filtres en un CRUD ja fet. Hem utilitzat la llibreria vueatify 
+                  que ens ofereix opcions predefinides.
                   
-                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar un CRUD per gestionar els informes ja realitzats 
+                  CRUD realitzat mitjançant C# al backend i amb .vue i javascript al frontend. En aquest cas, se'ns va demanar un 
+                  CRUD per gestionar els informes ja realitzats 
                   i poder veure l'usuari assignat a aquest informe, el tipus d'aquest i l'ID d'aquest.
                   
                   Modificar els filtres dels registres de test de producció. En aquest cas, volien que 2 columnes no es mostrassin dins de cada registre de test. 
@@ -401,24 +404,32 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   Implementació CRUD de la distribució dels informes en CMES Manager. Afegir filtres a tots els components treegrids de CMES Manager. 
                   En el mòdul de reparacions: mostrar la informació del test en seleccionar-ne un (igual que està fet en el mòdul de l'historial de Test), 
                   treure la paginació en el resultat del test i quan un resultat de test estigui fora de marge, indicar-ho amb un color vermell de fons, canviar 
-                  l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, 
+                  l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, 
+                  es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, 
                   mostrar les fotografies de la reparació i canviar el color de fons en seleccionar un article per reparar. 
                   En el mòdul de l'historial de Test: Treure filtres innecessaris i sol·licitar un comentari tant per retirar aquest test com per retirar
                   el xassís sencer. En el mòdul de SMD: Afegir una Línia Temporal on es mostren els estats de les línies SMD i de les òrdres d'aquestes.
 
             Setmana 12/02/2024 - 16/02/2024
 
-                  En les assistències, un cop marcada com a completada, demana un comentari de resolució amb una longitud màxima permesa determinada. 
-                  Afegir un previsualitzador de PDF responsive a la pàgina de béns. Quan s'afegeix un nou fitxer apareix un botó que obre un diàleg amb el PDF previsualitzat. 
-                  En el mòdul de Documents afegir la funció de poder afegir, editar, eliminar i filtrar documents per Nodo, els quals es veuen reflectits en el CMES Line si el document afegit al 
-                  Nodo són noves instruccions, aquestes es mostren igual que es mostraven les instruccions de família, producte i producte-versió.
+                  En les assistències, un cop marcada com a completada, demana un comentari de resolució amb una 
+                  longitud màxima permesa determinada. 
+                  Afegir un previsualitzador de PDF responsive a la pàgina de béns. Quan s'afegeix un nou fitxer 
+                  apareix un botó que obre un diàleg amb el PDF previsualitzat. 
+                  En el mòdul de Documents afegir la funció de poder afegir, editar, eliminar i filtrar documents per Nodo, 
+                  els quals es veuen reflectits en el CMES Line si el document afegit al 
+                  Nodo són noves instruccions, aquestes es mostren igual que es mostraven les instruccions de família, 
+                  producte i producte-versió.
 
             Setmana 19/02/2024 - 23/02/2024
 
-                  Aplicar de forma correcta els filtres de documents. Si es troben documents amb els filtres aplicats, mostrar-los; en cas contrari, 
+                  Aplicar de forma correcta els filtres de documents. Si es troben documents amb els filtres aplicats, 
+                  mostrar-los; en cas contrari, 
                   s'han de mostrar els documents del pare (Nodo, Família o Producte) i indicant d'on vénen heretats.
-                  En obrir el diàleg per gestionar els documents d'aquest Producte-Versió, Producte, Família o Nodo i tancar-lo amb la tecla ESC, funcioni amb normalitat. 
-                  En el mòdul de SMD mostrar informació de l'estat en la línia temporal a mode de hover amb un tooltip i en cas de parada no planificada mostrar el motiu d'aquesta.
+                  En obrir el diàleg per gestionar els documents d'aquest Producte-Versió, Producte, 
+                  Família o Nodo i tancar-lo amb la tecla ESC, funcioni amb normalitat. 
+                  En el mòdul de SMD mostrar informació de l'estat en la línia temporal a mode de hover amb un tooltip 
+                  i en cas de parada no planificada mostrar el motiu d'aquesta.
 
       MARÇ
 
@@ -432,31 +443,36 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
             Setmana 11/03/2024 - 15/03/2024
 
                   Arreglat Bug que no permetia veure les etiquetes heretades per família. Generat Script al Servidor VA de borratge automàtic setmanal d'imatges antigues. 
-                  Planificació i assajos de la Presentació del Projecte Lynx, generar PowerPoint, estudiar guió, etc. En el mòdul de Documents s'ha restringit el poder gestionar documents heretats, 
+                  Planificació i assajos de la Presentació del Projecte Lynx, generar PowerPoint, estudiar guió, etc. 
+                  En el mòdul de Documents s'ha restringit el poder gestionar documents heretats, 
                   indicant d'on vénen heretats aquests en el planner. Desplegament de les instruccions per nodo en Zurc i Dezac amb OT.
 
             Setmana 18/03/2024 - 22/03/2024
 
                   En el gestor de tots els documents comprovar si el mateix document està enllaçat més d'una vegada i mostrar el més restrictiu,
-                  a més d'en el combobox preseleccionar el que més coincideixi amb el codi cercat. Arreglat Bug en certes pàgines al previsualitzar-se descarregava el document en lloc de mostrar-lo. 
+                  a més d'en el combobox preseleccionar el que més coincideixi amb el codi cercat. Arreglat Bug en certes 
+                  pàgines al previsualitzar-se descarregava el document en lloc de mostrar-lo. 
                   Canviar format hora en els errors de test al resum de famílies.
 
             Setmana 25/03/2024 - 29/03/2024
 
                   Afegit nou camp el qual calcula els equips que s'han fabricat en un torn-nodo-operari-etc.
-                  Es vol comptar només la primera vegada que el xassís té un registre OK en el mateix producte i fase i afegit en l'informe de torn amb el qual es calcula la facturació del mateix.
+                  Es vol comptar només la primera vegada que el xassís té un registre OK en el mateix producte i fase i afegit 
+                  en l'informe de torn amb el qual es calcula la facturació del mateix.
 
 
       ABRIL
 
            Setmana 01/04/2024 - 05/04/2024
 
-                  Habilitat la lectura de codis de barra 1D des de l'aplicació de manteniment. Dissenyar i afegir icona a l'aplicació de manteniment. 
+                  Habilitat la lectura de codis de barra 1D des de l'aplicació de manteniment. Dissenyar i afegir icona 
+                  a l'aplicació de manteniment. 
                   La vista de cerca de béns podria funcionar sense prémer el botó de cerca a l'aplicació de manteniment.
 
            Setmana 08/04/2024 - 12/04/2024
 
-                  En la vista de gestió de documents de OT, Quan es selecciona una família, que no es deshabiliti el camp de producte, sinó que apareguin els productes de la família. 
+                  En la vista de gestió de documents de OT, Quan es selecciona una família, que no es deshabiliti el 
+                  camp de producte, sinó que apareguin els productes de la família. 
                   Afegir una barra cronològica de productes en la vista de resum SMD de cada línia.
 
            Setmana 15/04/2024 - 19/04/2024
@@ -468,11 +484,13 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
                   Mostrar a la vista d'indicadors de manteniment els temps sense necessitat de fer hover. 
                   Redimensionar el gràfic d'indicadors tenint en compte la mida de la pantalla.
-                  S'ha arreglat un problema que en crear una incidència la funció de suggerir assignat i assignar-te a tu mateix no funcionava correctament.
+                  S'ha arreglat un problema que en crear una incidència la funció de suggerir assignat i assignar-te 
+                  a tu mateix no funcionava correctament.
 
            Setmana 29/04/2024 - 03/05/2024
 
-                  S'han solucionat diversos errors trobats tant a la vista d'anàlisi per família/producte/ordre com a la vista d'anàlisi per seccions. 
+                  S'han solucionat diversos errors trobats tant a la vista d'anàlisi per família/producte/ordre com 
+                  a la vista d'anàlisi per seccions. 
                   S'ha afegit el número de xassís i el número de sèrie al component del panell de test.
 
 
