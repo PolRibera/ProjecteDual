@@ -395,8 +395,11 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
             Setmana 05/02/2024 - 09/02/2024
 
-                  Implementació CRUD de la distribució dels informes en CMES Manager. Afegir filtres a tots els components treegrids de CMES Manager. En el mòdul de reparacions: mostrar la informació del test en seleccionar-ne un (igual que està fet en el mòdul de l'historial de Test), treure la paginació en el resultat del test i quan un resultat de test estigui fora de marge, indicar-ho amb un color vermell de fons, canviar 
-                  l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, mostrar les fotografies de la reparació i canviar el color de fons en seleccionar un article per reparar. En el mòdul de l'historial de Test: Treure filtres innecessaris i sol·licitar un comentari tant per retirar aquest test com per retirar
+                  Implementació CRUD de la distribució dels informes en CMES Manager. Afegir filtres a tots els components treegrids de CMES Manager. 
+                  En el mòdul de reparacions: mostrar la informació del test en seleccionar-ne un (igual que està fet en el mòdul de l'historial de Test), 
+                  treure la paginació en el resultat del test i quan un resultat de test estigui fora de marge, indicar-ho amb un color vermell de fons, canviar 
+                  l'ordre de les columnes del resultat de test, en seleccionar una pestanya dins la informació de test, es mantingui en seleccionar-ne un altre, en entrar en la cronologia de cada test, mostrar les fotografies de la reparació i canviar el color de fons en seleccionar un article per reparar. 
+                  En el mòdul de l'historial de Test: Treure filtres innecessaris i sol·licitar un comentari tant per retirar aquest test com per retirar
                   el xassís sencer. En el mòdul de SMD: Afegir una Línia Temporal on es mostren els estats de les línies SMD i de les òrdres d'aquestes.
 
             Setmana 12/02/2024 - 16/02/2024
