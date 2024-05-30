@@ -1,6 +1,6 @@
 # Presentació Alumne
 
-([IPOP](https://express.adobe.com/page/kli3Gy671vgJw))
+[IPOP](https://express.adobe.com/page/kli3Gy671vgJw)
 
 Em dic Pol Ribera Aymerich i visc a Terrassa.
 
