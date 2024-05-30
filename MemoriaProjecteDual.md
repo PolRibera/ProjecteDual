@@ -55,6 +55,18 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
 # Diari de pràctiques
 
+Dintre el departament IT les tasques són bastant repetitives pel que elaboraré una petita llegenda perquè el diari s'entengui i sigui més lleuger.
+
+**Instal·lació de lloc de Treball:** Muntatge de monitor, ratolins, teclats, altaveus, cablejat entre altres perifèrics en un escriptori prèviament muntat per altres companys de manteniment.
+
+**Preparació d'equips:** Una vegada tret l'equip nou de la capsa, configurar el sistema operatiu de forma bàsica, seguidament d'introduir l'equip en el domini de l'empresa, una vegada dintre el domini, configurem un compte normal per al nou usuari amb Active Directory (compte creat prèviament pels nostres companys de IT), en el cas que demanin un compte administrador també el crearíem en aquest pas.
+Després comencem amb la instal·lació de tots els programes que ens demanin (Office, AnyDesk, VPN, Teams, SAP, entre moltíssim altres...), seguim amb la instal·lació de l'antivirus Sophos.
+Instal·laríem totes les impressores en xarxa i per últim habilitaríem el xifrat amb BitLocker des del panell de control de Sophos.
+
+**Instal·lació o configuració d'impressores d'etiquetes:** Amb la impressora nova la connectem al nostre equip i gràcies al programari del mateix fabricant li assignem una IP local (En cas que vulguin que tingui una IP fixa, en el cas que la vulguin per DHCP no caldria seguir aquest pas), amb la impressora amb IP baixem a la fàbrica on retirem la impressora antiga e instal·lem la nova. Si la IP es fixa i és la mateixa que l'anterior no hem de fer res més, però si la IP és diferent hem de descongelar el PC de la torre de producció amb una contrasenya que disposem, ja que si no el descongelem el PC quan es torni a engegar tornar a com estava abans de reiniciar-lo, amb el PC descongelat instal·lem la impressora a l'equip (Com si es tractés d'una impressora normal) i tornem a congelar l'equip.
+
+
+
       JUNY
 
             Setmana 12/06/2023 - 16/06/2023
