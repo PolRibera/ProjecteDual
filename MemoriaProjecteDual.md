@@ -77,7 +77,11 @@ Instal·laríem totes les impressores en xarxa i per últim habilitaríem el xif
                   
                   Configuració de impresores en xarxa.
                   
-                  Crear programa de generació automatica de firmes.
+                  Degut al meu perfil de DAM han demanat desenvolupar una aplicació per
+                  la generació automatica de firmes electroniques, seguint una plantila
+                  de HTML he fet un programa amb Python que tenint en compte el usuari
+                  Logegad al equip generi la firma automaticament.
+                  
 
             Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia
 
@@ -97,7 +101,9 @@ Instal·laríem totes les impressores en xarxa i per últim habilitaríem el xif
                   
                   Entrega de la Aplicació de generació de firmes en cmd, començament desenvolupament GUI.
                   
-                  Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
+                  Degut al meu perfil DAM han demanat desenvolupar una aplicació "Pont" per la conexio automatica
+                  amb tots els miniPC de la empresa utilitzant SSH per la conexio y guardan amb un fitxer .dll
+                  totes les conexions a mode de BBDD.
 
       JULIOL
 
@@ -150,6 +156,8 @@ Instal·laríem totes les impressores en xarxa i per últim habilitaríem el xif
                   Entrega de programa modificat de generació de firmes.
                   
                   Solucio Incidencies relacionades amb el programa PGI (PGI es el ERP de Dezac)
+                  Hem hagut de modificar alguns arxius .ini d'aquest programa per el seu correcte
+                  funcionament
 
             Setmana 31/07/2023 - 31/07/2023 (Agost Festa)
 
@@ -165,19 +173,22 @@ Instal·laríem totes les impressores en xarxa i per últim habilitaríem el xif
                   
                   Modificació de contasenyes desde Active Directory.
                   
-                  Començament desenvolupament aplicació autoinstalar programes per fer les preparacions del equips mes rapid.
+                  Degut al meu perfil de DAM han demanat desenvolupar una aplicació per la instalació automatica de programes
+                  per facilita la preparació d'equips al departament iT.
 
             Setmana 04/09/2023 - 08/09/2023
 
                   Preparació de diversos equips portatils.
                   
-                  Configuració Outlook pero utilitzar llistes de difusió.
+                  Configuració Outlook per utilitzar llistes de difusió.
                   
                   Configuració Navegadors per utilitzar certificat HTTP.
                   
                   Instalació de Windows 10 en un equip que anira ubicat dintre un cargador.
                   
-                  Modificació Script Intel NUC autoarranque perque mostri informació en dues pantalles.
+                  He hagut de modificar un scrpit de autoarranque de un intel NUC, ja que el que
+                  disponia nomes mostraba informació en una de les dues pantalles que tenia instalades,
+                  fent que quan aquest arranqui ja es mostri la informació en les dues.
                   
                   Configuració de Impresores d'etiquetes Intermek per la zona de Producció
 
@@ -232,8 +243,6 @@ Instal·laríem totes les impressores en xarxa i per últim habilitaríem el xif
                   Gestio d'Usuaris per Active Directory.
                   
                   Afegir Informació a la BBDD de Licencies.
-                  
-                  Configuració de una aplicació per la gestio remota de les pantalles.
                   
                   Configuració de adaptador de xarxa.
 
