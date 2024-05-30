@@ -55,6 +55,18 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
 
 # Diari de pràctiques
 
+Dintre el departament IT les tasques són bastant repetitives pel que elaboraré una petita llegenda perquè el diari s'entengui i sigui més lleuger.
+
+**Instal·lació de lloc de Treball:** Muntatge de monitor, ratolins, teclats, altaveus, cablejat entre altres perifèrics en un escriptori prèviament muntat per altres companys de manteniment.
+
+**Preparació d'equips:** Una vegada tret l'equip nou de la capsa, configurar el sistema operatiu de forma bàsica, seguidament d'introduir l'equip en el domini de l'empresa, una vegada dintre el domini, configurem un compte normal per al nou usuari amb Active Directory (compte creat prèviament pels nostres companys de IT), en el cas que demanin un compte administrador també el crearíem en aquest pas.
+Després comencem amb la instal·lació de tots els programes que ens demanin (Office, AnyDesk, VPN, Teams, SAP, entre moltíssim altres...), seguim amb la instal·lació de l'antivirus Sophos.
+Instal·laríem totes les impressores en xarxa i per últim habilitaríem el xifrat amb BitLocker des del panell de control de Sophos.
+
+**Instal·lació o configuració d'impressores d'etiquetes:** Amb la impressora nova la connectem al nostre equip i gràcies al programari del mateix fabricant li assignem una IP local (En cas que vulguin que tingui una IP fixa, en el cas que la vulguin per DHCP no caldria seguir aquest pas), amb la impressora amb IP baixem a la fàbrica on retirem la impressora antiga e instal·lem la nova. Si la IP es fixa i és la mateixa que l'anterior no hem de fer res més, però si la IP és diferent hem de descongelar el PC de la torre de producció amb una contrasenya que disposem, ja que si no el descongelem el PC quan es torni a engegar tornar a com estava abans de reiniciar-lo, amb el PC descongelat instal·lem la impressora a l'equip (Com si es tractés d'una impressora normal) i tornem a congelar l'equip.
+
+
+
       JUNY
 
             Setmana 12/06/2023 - 16/06/2023
@@ -65,7 +77,11 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   
                   Configuració de impresores en xarxa.
                   
-                  Crear programa de generació automatica de firmes.
+                  Degut al meu perfil de DAM han demanat desenvolupar una aplicació per
+                  la generació automatica de firmes electroniques, seguint una plantila
+                  de HTML he fet un programa amb Python que tenint en compte el usuari
+                  Logegad al equip generi la firma automaticament.
+                  
 
             Setmana 19/06/2023 - 23/06/2023 - Dijous 22/06/2023 Absencia
 
@@ -85,7 +101,9 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   
                   Entrega de la Aplicació de generació de firmes en cmd, començament desenvolupament GUI.
                   
-                  Començament desenvolupament aplicacio de gestio remota de miniPCs (Raspberry Pi, Intel NUC:::).
+                  Degut al meu perfil DAM han demanat desenvolupar una aplicació "Pont" per la conexio automatica
+                  amb tots els miniPC de la empresa utilitzant SSH per la conexio y guardan amb un fitxer .dll
+                  totes les conexions a mode de BBDD.
 
       JULIOL
 
@@ -138,6 +156,8 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   Entrega de programa modificat de generació de firmes.
                   
                   Solucio Incidencies relacionades amb el programa PGI (PGI es el ERP de Dezac)
+                  Hem hagut de modificar alguns arxius .ini d'aquest programa per el seu correcte
+                  funcionament
 
             Setmana 31/07/2023 - 31/07/2023 (Agost Festa)
 
@@ -153,19 +173,22 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   
                   Modificació de contasenyes desde Active Directory.
                   
-                  Començament desenvolupament aplicació autoinstalar programes per fer les preparacions del equips mes rapid.
+                  Degut al meu perfil de DAM han demanat desenvolupar una aplicació per la instalació automatica de programes
+                  per facilita la preparació d'equips al departament iT.
 
             Setmana 04/09/2023 - 08/09/2023
 
                   Preparació de diversos equips portatils.
                   
-                  Configuració Outlook pero utilitzar llistes de difusió.
+                  Configuració Outlook per utilitzar llistes de difusió.
                   
                   Configuració Navegadors per utilitzar certificat HTTP.
                   
                   Instalació de Windows 10 en un equip que anira ubicat dintre un cargador.
                   
-                  Modificació Script Intel NUC autoarranque perque mostri informació en dues pantalles.
+                  He hagut de modificar un scrpit de autoarranque de un intel NUC, ja que el que
+                  disponia nomes mostraba informació en una de les dues pantalles que tenia instalades,
+                  fent que quan aquest arranqui ja es mostri la informació en les dues.
                   
                   Configuració de Impresores d'etiquetes Intermek per la zona de Producció
 
@@ -220,8 +243,6 @@ Valoro el seguiment de la doble tutoria (entitat-institut) amb un 10/10.
                   Gestio d'Usuaris per Active Directory.
                   
                   Afegir Informació a la BBDD de Licencies.
-                  
-                  Configuració de una aplicació per la gestio remota de les pantalles.
                   
                   Configuració de adaptador de xarxa.
 
